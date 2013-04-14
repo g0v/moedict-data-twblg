@@ -14,7 +14,8 @@ import ::
 	curl -i -H "Content-Type: text/csv" -X PUT --data-binary @uni/近義詞對應.csv http://127.0.0.1:3000/collections/synonyms -o /dev/null
 
 dict ::
-	./gen.pl | lsc -j > dict-twblg.json
+	./gen.ls > k
+	lsc -j k > dict-twblg.json
 
 index ::
 	plv8x -d x -je '~> [title for {title} in plv8.execute("SELECT DISTINCT 詞目 title from entries WHERE 屬性::int IN (1,25)  ORDER BY 詞目") | title isnt /[⿰⿸]/]' > index.json

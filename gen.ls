@@ -1,7 +1,8 @@
 #!/usr/bin/env plv8x -d x -jr
 x <- plv8.execute """
-  SELECT DISTINCT 詞目 title, 部首 radical, 部首序 strokes FROM entries
+  SELECT DISTINCT 詞目 title, MAX(部首) radical, MAX(部首序) strokes FROM entries
    WHERE 屬性::int IN (1,25)
+   GROUP BY 詞目
    ORDER BY 詞目
 """ .map
 if x.radical
