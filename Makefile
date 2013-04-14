@@ -12,3 +12,6 @@ import ::
 	curl -i -H "Content-Type: text/csv" -X PUT --data-binary @uni/詞彙方言差.csv http://127.0.0.1:3000/collections/lingos -o /dev/null
 	curl -i -H "Content-Type: text/csv" -X PUT --data-binary @uni/語音方言差.csv http://127.0.0.1:3000/collections/dialects -o /dev/null
 	curl -i -H "Content-Type: text/csv" -X PUT --data-binary @uni/近義詞對應.csv http://127.0.0.1:3000/collections/synonyms -o /dev/null
+
+dict ::
+	./gen.pl | lsc -j > dict-twblg.json
