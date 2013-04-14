@@ -5,9 +5,9 @@ x <- plv8.execute """
    ORDER BY 詞目
 """ .map
 if x.radical
-  [,sc,nrsc] = delete x.strokes / \-
-  x.stroke_count = parseInt sc
-  x.non_radical_stroke_count = parseInt nrsc
+  [j,sc,nrsc] = delete x.strokes / \-
+  x.stroke_count = +sc
+  x.non_radical_stroke_count = +nrsc
 else delete x<[ strokes radical ]>
 x.heteronyms = plv8.execute """
   SELECT 主編號 id, 音讀 trs, 文白俗替 reading, 方言差 dialects
