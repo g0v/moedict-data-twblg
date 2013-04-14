@@ -15,3 +15,6 @@ import ::
 
 dict ::
 	./gen.pl | lsc -j > dict-twblg.json
+
+index ::
+	plv8x -d x -je '~> [title for {title} in plv8.execute("SELECT DISTINCT 詞目 title from entries WHERE 屬性::int IN (1,25)  ORDER BY 詞目") | title isnt /[⿰⿸]/]' > index.json
