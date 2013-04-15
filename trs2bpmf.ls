@@ -35,3 +35,7 @@ trs2bpmf = -> unorm.nfd(it).replace(/[A-Za-z\u0300-\u0304]+/g ->
 
 console.log trs2bpmf "lí kóng ing-gí iā-sī kok-gí?" #你講英語也是國語？(from @gugod)
 console.log trs2bpmf "Lín tshiâu hó-sè tsiah kā guá kóng kiat-kó" #恁撨好勢才共我講結果
+
+# TODO: Tonal adjustment based on hyphenation: Ko-hiông => ㄍㄜ˫ㄏㄧㆲˊ, not ㄍㄜ ㄏㄧㆲˊ
+# TODO: Diaeresis: kè-tsa̋u-kiánn: => ㄍㆤˋㄗㄚㄨ ㄍㄧㆩˋ, not ㄍㆤˋㄗㄠ ㄍㄧㆩˋ
+# TODO: -nn and -nn handling: tsînn, lân
