@@ -1,4 +1,5 @@
 re = -> Object.keys(it).sort(-> &1.length - &0.length).join \|
+
 const Consonants = {
     p:\ㄅ b:\ㆠ ph:\ㄆ m:\ㄇ
     t:\ㄉ th:\ㄊ n:\ㄋ l:\ㄌ
@@ -9,33 +10,35 @@ const Consonants = {
 C = re Consonants
 
 const Vowels = {
-    a:\ㄚ ann:\ㆩ oo:\ㆦ onn:\ㆧ o:\ㄜ
+    a:\ㄚ an: \ㄢ ang: \ㄤ ann:\ㆩ oo:\ㆦ onn:\ㆧ o:\ㄜ
     e:\ㆤ enn:\ㆥ ai:\ㄞ ainn:\ㆮ
     au:\ㄠ aunn:\ㆯ am:\ㆰ om:\ㆱ m:\ㆬ
     ong:\ㆲ ng:\ㆭ i:\ㄧ inn:\ㆪ u:\ㄨ unn:\ㆫ
-    ing:\ㄧㄥ in:\ㄧㄣ
+    ing:\ㄧㄥ in:\ㄧㄣ un:\ㄨㄣ
 }
 V = re Vowels
 
 const Tones = {
     p:\ㆴ t:\ㆵ k:\ㆶ h:\ㆷ
-    "\u0300":\˪ "\u0301":\ˋ "\u0302":\ˊ "\u0304":\˫
+    p$:\.ㆴ t$:\.ㆵ k$:\.ㆶ h$:\.ㆷ
+    "\u0300":\˪ "\u0301":\ˋ
+    "\u0302":\ˊ "\u0304":\˫
+    "\u030d":\$
 }
-T = re Tones
 
+console.log require(\unorm).nfd(require(\stdin)!)
 require! unorm
-trs2bpmf = -> unorm.nfd(it).replace(/[A-Za-z\u0300-\u0304]+/g ->
-  tone = '　'
+trs2bpmf = -> unorm.nfd(it).replace(/[A-Za-z\u0300-\u030d]+/g ->
+  tone = ''
   it.=toLowerCase!
-  it.=replace //^(#C)// -> Consonants[it]
-  it.=replace //(#T)// -> tone := Tones[it]; ''
+  it.=replace //([\u0300-\u0302\u0304\u030d])// -> tone := Tones[it]; ''
+  it.=replace //^(#C)((?:#V)+[ptkh]?)$// -> Consonants[&1] + &2
+  it.=replace //[ptkh]$// -> tone := Tones[it+tone]; ''
   it.=replace //(#V)//g -> Vowels[it]
-  "#it#tone"
-).replace(/[- ]/g '').replace(/　/g ' ')
+  it + (tone || '\uFFFD')
+).replace(/[- ]/g '').replace(/\uFFFD/g ' ')
 
-console.log trs2bpmf "lí kóng ing-gí iā-sī kok-gí?" #你講英語也是國語？(from @gugod)
-console.log trs2bpmf "Lín tshiâu hó-sè tsiah kā guá kóng kiat-kó" #恁撨好勢才共我講結果
+console.log trs2bpmf "Nā kóng-tio̍h tshia, i sī lāi-hâng--ê."
 
 # TODO: Tonal adjustment based on hyphenation: Ko-hiông => ㄍㄜ˫ㄏㄧㆲˊ, not ㄍㄜ ㄏㄧㆲˊ
 # TODO: Diaeresis: kè-tsa̋u-kiánn: => ㄍㆤˋㄗㄚㄨ ㄍㄧㆩˋ, not ㄍㆤˋㄗㄠ ㄍㄧㆩˋ
-# TODO: -nn and -nn handling: tsînn, lân
