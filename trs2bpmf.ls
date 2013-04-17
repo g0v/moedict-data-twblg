@@ -26,19 +26,17 @@ const Tones = {
     "\u030d":\$
 }
 
-console.log require(\unorm).nfd(require(\stdin)!)
 require! unorm
 trs2bpmf = -> unorm.nfd(it).replace(/[A-Za-z\u0300-\u030d]+/g ->
   tone = ''
   it.=toLowerCase!
   it.=replace //([\u0300-\u0302\u0304\u030d])// -> tone := Tones[it]; ''
+  it.=replace //^(tsh?|[sj])i// '$1ii'
   it.=replace //^(#C)((?:#V)+[ptkh]?)$// -> Consonants[&1] + &2
   it.=replace //[ptkh]$// -> tone := Tones[it+tone]; ''
   it.=replace //(#V)//g -> Vowels[it]
   it + (tone || '\uFFFD')
 ).replace(/[- ]/g '').replace(/\uFFFD/g ' ')
-
-console.log trs2bpmf "Nā kóng-tio̍h tshia, i sī lāi-hâng--ê."
 
 # TODO: Tonal adjustment based on hyphenation: Ko-hiông => ㄍㄜ˫ㄏㄧㆲˊ, not ㄍㄜ ㄏㄧㆲˊ
 # TODO: Diaeresis: kè-tsa̋u-kiánn: => ㄍㆤˋㄗㄚㄨ ㄍㄧㆩˋ, not ㄍㆤˋㄗㄠ ㄍㄧㆩˋ
