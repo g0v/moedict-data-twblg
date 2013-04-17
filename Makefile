@@ -15,7 +15,7 @@ import ::
 
 dict ::
 	./gen.ls > k
-	lsc -j k > dict-twblg.json
+	lsc -je 'JSON.parse require(\unorm).nfd require(\fs).read-file-sync \k \utf8' > dict-twblg.json
 
 index ::
 	plv8x -d x -je '~> [title for {title} in plv8.execute("SELECT DISTINCT 詞目 title from entries WHERE 屬性::int IN (1,2,5,25)  ORDER BY 詞目") | title isnt /[⿰⿸]/]' > index.json
