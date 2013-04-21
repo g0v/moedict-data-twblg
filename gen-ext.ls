@@ -29,6 +29,5 @@ x.heteronyms = plv8.execute """
   else delete nym.dialects
   delete nym.reading unless nym.reading
   nym.definitions = JSON.parse nym.definitions
-  delete nym.id
   nym
 return x

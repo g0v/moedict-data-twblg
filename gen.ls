@@ -41,7 +41,6 @@ x.heteronyms = plv8.execute """
   """ [nym.id] .map (def) ->
     delete def.example unless def.example?length
     def
-  delete nym.id
   delete nym.synonyms unless nym.synonyms
   delete nym.antonyms unless nym.antonyms
   nym
