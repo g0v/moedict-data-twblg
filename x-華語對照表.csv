@@ -1,3 +1,25 @@
+use utf8;
+<DATA>;
+my %a2t = qw( 萌 發穎 );
+my %t2a = qw( 發穎 萌 );
+my %seen;
+while (<DATA>) {
+    chomp;
+    my ($m, undef, $t) = split /,/, $_;
+    next unless -e "/Users/audreyt/w/moedict-webkit/a/$m.json";
+    next if $seen{$m,$t}++;
+    next if $t =~ /\d/;
+    $a2t{$m} .= "," if $a2t{$m};
+    $a2t{$m} .= ($t eq $m) ? '' : $t;
+    $t2a{$t} .= "," if $t2a{$t};
+    $t2a{$t} .= ($t eq $m) ? '' : $m;
+}
+use JSON;
+use File::Slurp 'write_file';
+write_file '/Users/audreyt/w/moedict-webkit/a/xref.json' => encode_json({ t => \%a2t })."\n";
+write_file '/Users/audreyt/w/moedict-webkit/t/xref.json' => encode_json({ a => \%t2a })."\n";
+
+__DATA__
 華語,詞條編號,詞條名稱
 一,182,么
 一,2,一

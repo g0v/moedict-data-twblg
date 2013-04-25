@@ -13,9 +13,7 @@ if x.radical
   x.non_radical_stroke_count = +nrsc
 else delete x<[ strokes radical ]>
 x.heteronyms = plv8.execute """
-  SELECT 主編號 id, 音讀 trs, 文白俗替 reading, 方言差 dialects, m.heteronyms ~> '@0.definitions.map -> def: it.definition' definitions
-    FROM entries
-  LEFT JOIN m ON m.title = 詞目
+  SELECT 主編號 id, 音讀 trs, 文白俗替 reading, 方言差 dialects, m.heteronyms ~> '@0.definitions.map -> def: it.definition' definitions FROM entries
    WHERE 詞目 = $1 AND 屬性::int IN (2,5)
    ORDER BY 主編號
    LIMIT 1
@@ -29,5 +27,7 @@ x.heteronyms = plv8.execute """
   else delete nym.dialects
   delete nym.reading unless nym.reading
   nym.definitions = JSON.parse nym.definitions
+  if 20000 < id < 50000
+    nym.sound = plv8.execute "SELECT 主編號 id FROM entries WHERE trs = ($1) AND (id < 20000 OR id > 50000) LIMIT 1" [nym.trs] .0.id
   nym
 return x
