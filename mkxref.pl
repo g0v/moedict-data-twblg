@@ -1,11 +1,13 @@
+use strict;
 use utf8;
-local @ARGV = 'x-華語對照表.csv';
-<>;
+open IN, '<:utf8', 'x-華語對照表.csv';
+binmode IN, ':utf8';
+<IN>;
 my %a2t = qw( 萌 發穎 );
 my %t2a = qw( 發穎 萌 );
 die "Please checkout ../moedict-webkit/ and have /a/*.json ready" unless -d "../moedict-webkit/";
 my %seen;
-while (<>) {
+while (<IN>) {
     chomp;
     my ($m, undef, $t) = split /,/, $_;
     next unless -e "../moedict-webkit/a/$m.json";
