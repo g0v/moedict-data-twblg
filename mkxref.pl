@@ -6,9 +6,11 @@ binmode IN, ':utf8';
 my %a2t = qw( 萌 發穎 );
 my %t2a = qw( 發穎 萌 );
 
-my $moedict_basedir = "../moedict-webkit";
+my $moedict_basedir = shift || "../moedict-webkit";
 
-die "Please checkout $moedict_basedir and have /a/*.json ready" unless -d $moedict_basedir;
+die "Usage: $0 /path/to/moedict-webkit
+
+Please checkout $moedict_basedir and have /a/*.json ready." unless -d $moedict_basedir;
 my %seen;
 while (<IN>) {
     chomp;
