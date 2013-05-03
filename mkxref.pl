@@ -6,6 +6,8 @@ binmode IN, ':utf8';
 my %a2t = qw( 萌 發穎 );
 my %t2a = qw( 發穎 萌 );
 
+# TODO: Add everything in ext, at least 臺華共同詞
+
 my $moedict_basedir = shift || "../moedict-webkit";
 
 die "Usage: $0 /path/to/moedict-webkit
