@@ -1,9 +1,11 @@
 #!/usr/bin/env plv8x -d x -jr
+# TODO: Handle the m.heteronyms IS NULL case and at least supply the
+# pronounciation.
 x <- plv8.execute """
   SELECT DISTINCT 詞目 title, MAX(部首) radical, MAX(部首序) strokes
   FROM entries
   LEFT JOIN m ON m.title = 詞目
-   WHERE 屬性::int IN (2,5) AND m.heteronyms IS NOT NULL
+   WHERE 屬性::int IN (2,5)
    GROUP BY 詞目
    ORDER BY 詞目
 """ .map
