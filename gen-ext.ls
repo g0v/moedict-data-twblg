@@ -10,7 +10,7 @@ x <- plv8.execute """
    ORDER BY 詞目
 """ .map
 if x.radical
-  [j,sc,nrsc] = delete x.strokes / \-
+  [j,nrsc,sc] = delete x.strokes / \-
   x.stroke_count = +sc
   x.non_radical_stroke_count = +nrsc
 else delete x<[ strokes radical ]>
