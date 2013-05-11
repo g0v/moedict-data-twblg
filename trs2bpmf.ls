@@ -32,6 +32,7 @@ trs2bpmf = -> unorm.nfd(it).replace(/[A-Za-z\u0300-\u030d]+/g ->
   it.=toLowerCase!
   it.=replace //([\u0300-\u0302\u0304\u030d])// -> tone := Tones[it]; ''
   it.=replace //^(tsh?|[sj])i// '$1ii'
+  it.=replace //ok$// 'ook'
   it.=replace //^(#C)((?:#V)+[ptkh]?)$// -> Consonants[&1] + &2
   it.=replace //[ptkh]$// -> tone := Tones[it+tone]; ''
   it.=replace //(#V)//g -> Vowels[it]
