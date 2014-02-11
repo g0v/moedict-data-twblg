@@ -20,4 +20,4 @@ dict ::
 	lsc -je 'JSON.parse require(\unorm).nfd require(\fs).read-file-sync \k-ext \utf8' > dict-twblg-ext.json
 
 index ::
-	plv8x -d x -je '~> [title for {title} in plv8.execute("SELECT DISTINCT 詞目 title from entries WHERE 屬性::int IN (1,2,5,25)  ORDER BY 詞目") | title isnt /[⿰⿸]/]' > index.json
+	plv8x -d x -je '~> [title for {title} in plv8.execute("SELECT DISTINCT 詞目 title from entries WHERE 屬性代號::int IN (1,2,5,25)  ORDER BY 詞目") | title isnt /[⿰⿸]/]' > index.json
