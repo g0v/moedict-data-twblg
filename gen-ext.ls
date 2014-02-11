@@ -15,8 +15,8 @@ if x.radical
   x.non_radical_stroke_count = +nrsc
 else delete x<[ strokes radical ]>
 x.heteronyms = plv8.execute """
-  SELECT 主編號 id, 音讀 trs, 文白俗替 reading, 方言差 dialects, m.heteronyms ~> '@0.definitions.map -> def: it.definition' definitions FROM entries
-   WHERE 詞目 = $1 AND 屬性::int IN (2,5)
+  SELECT 主編號 id, 音讀 trs, 文白 reading, 方言差對應 dialects, m.heteronyms ~> '@0.definitions.map -> def: it.definition' definitions FROM entries
+   WHERE 詞目 = $1 AND 屬性代號::int IN (2,5)
    ORDER BY 主編號
    LIMIT 1
 """ [x.title] .map (nym) ->
@@ -24,7 +24,7 @@ x.heteronyms = plv8.execute """
     nym.dialects = plv8.execute """
       SELECT 鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
         FROM #{ if that is /^\[方1\]/ then \lingos else \dialects }
-       WHERE #{ if that is /^\[方1\]/ then \詞彙編號 else \字號 } = $1
+       WHERE #{ if that is /^\[方1\]/ then \資料編號 else \字號 } = $1
     """ [that] .0
   else delete nym.dialects
   delete nym.reading unless nym.reading
