@@ -8,8 +8,8 @@ my (%symToUni, %symToPua);
 for (@map) {
     chomp;
     my ($code, $uni) = split /,/, $_;
-    $symToUni{uc $code} = $uni; # include IDS
-    $symToPua{uc $code} = $uni unless length $uni > 1; # exclude IDS
+    $symToUni{chr hex $code} = $uni; # include IDS
+    $symToPua{chr hex $code} = $uni unless length $uni > 1; # exclude IDS
 }
 for my $file (@ARGV) {
     my $csv = read_file( $file, binmode => ':utf8' ) ;
@@ -18,7 +18,6 @@ for my $file (@ARGV) {
     $csv =~ s/(${\join('|', keys %symToUni)})/$symToUni{$1}/ego;
     write_file( "$file.uni", {binmode => ':utf8'}, $csv ) ;
 }
-__END__
 for my $file (<raw/*.csv>) {
     my $csv = read_file( $file, binmode => ':utf8' ) ;
     $file =~ s/raw/pua/;
