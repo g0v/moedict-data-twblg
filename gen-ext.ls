@@ -1,4 +1,4 @@
-#!/usr/bin/env plv8x -d x -jr
+#!/usr/bin/env plv8x -d twblg -jr
 # TODO: Handle the m.heteronyms IS NULL case and at least supply the
 # pronounciation.
 x <- plv8.execute """

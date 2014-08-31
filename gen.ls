@@ -1,4 +1,4 @@
-#!/usr/bin/env plv8x -d x -jr
+#!/usr/bin/env plv8x -d twblg -jr
 x <- plv8.execute """
   SELECT DISTINCT 詞目 title, MAX(部首) radical, MAX(部首序) strokes FROM entries
    WHERE 屬性代號::int IN (1,25)
