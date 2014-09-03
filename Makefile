@@ -5,7 +5,7 @@ deps ::
 	npm i -g pgrest plv8x
 
 pgrest ::
-	dropdb twblg
+	-dropdb twblg
 	createdb twblg
 	pgrest --db twblg
 
