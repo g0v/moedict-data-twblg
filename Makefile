@@ -6,7 +6,7 @@ deps ::
 
 pgrest ::
 	-dropdb twblg
-	createdb twblg
+	createdb -E UTF8 twblg
 	pgrest --db twblg
 
 import ::
