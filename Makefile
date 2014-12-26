@@ -11,7 +11,7 @@ pgrest ::
 
 import ::
 	curl -i -H "Content-Type: text/csv" -X POST --data-binary @x-造字.csv http://127.0.0.1:3000/collections/pua -o /dev/null
-	curl -i -H "Content-Type: text/csv" -X POST --data-binary @x-華語對照表.csv http://127.0.0.1:3000/collections/m2t -o /dev/null
+	curl -i -H "Content-Type: text/csv" -X POST --data-binary @uni/對應華語.csv http://127.0.0.1:3000/collections/m2t -o /dev/null
 	curl -i -H "Content-Type: text/csv" -X POST --data-binary @uni/例句.csv http://127.0.0.1:3000/collections/examples -o /dev/null
 	curl -i -H "Content-Type: text/csv" -X POST --data-binary @uni/又音.csv http://127.0.0.1:3000/collections/heteronyms -o /dev/null
 	curl -i -H "Content-Type: text/csv" -X POST --data-binary @uni/又音.屬性對照.csv http://127.0.0.1:3000/collections/heteronyms_attrs -o /dev/null
