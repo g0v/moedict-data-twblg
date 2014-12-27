@@ -30,7 +30,10 @@ x.heteronyms = plv8.execute """
   #     WHERE #{ if that is /^\[方1\]/ then \資料編號 else \字號 } = $1
   #  """ [that] .0
   #else delete nym.dialects
-  delete nym.reading unless nym.reading
+  if +nym.reading
+    nym.reading = ".文白俗替"[nym.reading]
+  else
+    delete nym.reading
   nym.definitions = plv8.execute """
     SELECT (SELECT dp.詞性 FROM definitions_parts dp WHERE dp.代號 = definitions.詞性代碼) AS type, 釋義 def,
            (SELECT array_agg(
