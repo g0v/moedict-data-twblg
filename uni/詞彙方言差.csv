@@ -1,7 +1,7 @@
-流水號,資料編號,詞目,鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
+序號,方言差編碼,詞目,鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
 1,[方1]0001,醫院,"病院　pǐnn-ǐnn, 醫生館　i-sing-kuán","病院　pīnn-īnn, 醫生館　i-sing-kuán","病院　pīnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán",醫院　i-īnn,"醫生館　i-sing-kuán, 病院　pīnn-īnn",病院　pīnn-ìnn,"病院　pēnn-ìnn, 醫生館　i-sing-kuán"
 2,[方1]0002,看醫生,看醫生　khuànn-i-sing,看醫生　khuànn-i-sing,"予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing",予醫生看　hōo i-sing khuànn,"看醫生　khuànn-i-sing, 揣醫生　tshē-i-sing","予醫生看　hōo i-sing khuànn, 看醫生　khuànn-i-sing",看醫生　khuànn-i-sing
-3,[方1]0003,把脈,"𥌚脈　bāi-be̍h, 節脈　tsat-be̍h",節脈　tsat-bē,節脈　tsat-me̍h,節脈　tsat-mē,"節脈　tsat-me̍h, 摸脈　bong-me̍h","節脈　tsat-me̍h, 候脈　hāu-me̍h","候脈　hāu-be̍h, 掠脈　lia̍h-be̍h, 𥌚脈　bāi-be̍h, 扞脈　huānn-be̍h","候脈　hāu-me̍h, 節脈　tsat-me̍h, 𥌚脈　bāi-me̍h",節脈　tsat-be̍h　,節脈　tsat-meh 
+3,[方1]0003,把脈,"脈　bāi-be̍h, 節脈　tsat-be̍h",節脈　tsat-bē,節脈　tsat-me̍h,節脈　tsat-mē,"節脈　tsat-me̍h, 摸脈　bong-me̍h","節脈　tsat-me̍h, 候脈　hāu-me̍h","候脈　hāu-be̍h, 掠脈　lia̍h-be̍h, 脈　bāi-be̍h, 扞脈　huānn-be̍h","候脈　hāu-me̍h, 節脈　tsat-me̍h, 脈　bāi-me̍h",節脈　tsat-be̍h　,節脈　tsat-meh 
 4,[方1]0004,注射,注射　tsù-siǎ; tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,"拍針　phah-tsam, 注射　tsù-siā",注射　tsù-siā,注射　tsù-siā,注射　tsù-siā
 5,[方1]0005,艾,艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn,"艾　hiānn, 艾草　hiānn-tsháu",艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn
 6,[方1]0006,拜拜,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài
@@ -515,7 +515,7 @@
 534,[方1]0535,陰莖,𡳞鳥　lǎn-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,"𡳞鳥　lān-tsiáu, 戛　khiat, 訶　honn",𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu
 535,[方1]0536,陰囊,𡳞脬　lǎn-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha
 536,[方1]0537,睪丸,𡳞核　lǎn-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核仔　lān-hu̍t-á
-537,[方1]0538,拳頭,拳頭　kûn-thâu,拳頭母　kûn-thâu-bú,拳頭母　kûn-thâu-bó,"拳頭　kûn-thâu, 拳頭母　kûn-thâu-bó",拳頭母　kûn-thâu-bór,"拳頭　kûn-thâu, 拳頭母　kûn-thâu-bú",拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭母　kûn-thâu-bó
+537,[方1]0538,拳頭,拳頭　kûn-thâu,拳頭拇　kûn-thâu-bú,拳頭拇　kûn-thâu-bó,"拳頭　kûn-thâu, 拳頭拇　kûn-thâu-bó",拳頭拇　kûn-thâu-bór,"拳頭　kûn-thâu, 拳頭拇　kûn-thâu-bú",拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭拇　kûn-thâu-bó
 538,[方1]0539,手指,指頭仔　tsńg-thâu-á,指頭仔　tsńg-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsńg-thâu--á,指頭仔　tsín-thâu--á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á
 539,[方1]0540,指甲,指甲　tsńg-kah,指甲　tsńg-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsńg-kah,指甲　tsín-kah,指甲　tsíng-kah,指甲　tsíng-kah
 540,[方1]0541,螺,螺　lêr,螺　lêr,螺　lê,"旋　tsn̄g, 螺　lê",螺仔　lê-á,螺　lê,螺　lêr,螺　lê,螺　lêr; lê,螺仔　lê-á
@@ -877,7 +877,7 @@
 947,[方1]0950,起乩,跳童　thiàu-tâng,起童　khí-tâng,跳童　thiàu-tâng,趒童　tiô-tâng,"起童　khí-tâng, 趒童　thiôr-tâng",起童　khí-tâng,跳童　thiàu-tâng,"起童　khí-tâng, 上童　tsiūnn-tâng",跳童　thiàu-tâng,起童　khí-tâng
 948,[方1]0951,捐獻,抾眾錢　khioh-tsìng-tsînn,添油香　thiam-iû-hiunn,抾捐錢　khioh-iân-tsînn,題捐金　tê-iân-kim,題捐金　tê-iân-kim,題捐金　tê-iân-kim,題捐金　tuê-iân-kim,題捐金　tuê-iân-kim,"題捐金　tuê-iân-kim, 樂捐　lo̍k-kuan",抾錢　khioh-tsînn
 949,[方1]0952,撿紅點,抾紅點　khioh-âng-tiám,抾紅點　khioh-âng-tiám,抾紅點仔　khioh-âng-tiám-á,抾紅點　khioh-âng-tiám,抾紅點　khiorh-âng-tiám,抾紅點　khiorh-âng-tiám,抾紅點　khioh-âng-tiám,抾紅點　khioh-âng-tiám,抾紅點　khioh-âng-tiám,抾紅點　khioh-âng-tiám
-950,[方1]0953,翻筋斗,躍跤仔輪　ik-kau-á-lin,拋輾斗　pha-lìn-táu,"捙畚斗　tshia-pùn-táu, 拋車輪　pha-tshia-lin",捙畚斗　tshia-pùn-táu,反死狗仔　píng-sí-káu-á,"反加薦　píng-ka-tsì, 反輾狗仔　píng-liàn-káu-á",拋輾狗　pha-lìn-káu,拋輾狗　pha-lìn-káu,拋輦斗　pha-lín-táu,反輦狗仔　píng-lián-káu-á
+950,[方1]0953,翻筋斗,躍跤仔輪　ik-kau-á-lin,拋輾斗　pha-lìn-táu,"捙畚斗　tshia-pùn-táu, 拋捙輪　pha-tshia-lin",捙畚斗　tshia-pùn-táu,反死狗仔　píng-sí-káu-á,"反加薦　píng-ka-tsì, 反輾狗仔　píng-liàn-káu-á",拋輾狗　pha-lìn-káu,拋輾狗　pha-lìn-káu,拋輦斗　pha-lín-táu,反輦狗仔　píng-lián-káu-á
 951,[方1]0954,潛水,藏水沬　tshàng-tsuí-bǐ,藏鼻　tshàng-phī,藏水沬　tshàng-tsuí-bī,藏沬　tshàng-bī,踮水沬　tiàm-tsuí-bī,藏沬　tshàng-bī,鑽水鼻　tsǹg-tsuí-phī,沬水　bī-tsuí,竄水沬　tshǹg-tsuí-bī,藏水沬　tshàng-tsuí-bī
 952,[方1]0955,烏龜,烏龜　oo-kui,烏龜　oo-kui,烏龜　oo-kui,烏龜　oo-kui,烏龜　oo-kui,烏龜仔　oo-kui-á,烏龜　oo-kui,烏龜頭　oo-kui-thâu,烏龜　oo-kui,烏龜　oo-kui
 953,[方1]0956,妓院,"查某間　tsa-bóo-king, 烏間　oo-king, 跤梢間　kha-sau-king",跤梢間仔　kha-sau-king-á,跤梢間仔　kha-sau-king-á,"妓女戶　ki-lí-hōo, 酒家　tsiú-ka, 暗間仔　àm-king-á, 跤梢間仔　kha-sau-king-á","酒家　tsiú-ka, 跤梢間仔　kha-sau-king-á","妓女戶　ki-lú-hōo, 酒家　tsiú-ka, 暗間仔　àm-king-á, 跤梢間仔　kha-sau-king-á","相楗仔　sann-kāinn--á, 妓女戶　ki-lír-hōo","跤踃間　kha-sau-king, 妓女院　ki-lú-īnn","跤梢間仔　kha-sau-king-á, 趁食間仔　thàn-tsia̍h-king-á","跤梢間仔　kha-sau-king-á, 查某間　tsa-bóo-king"
