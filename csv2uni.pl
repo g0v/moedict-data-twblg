@@ -1,7 +1,6 @@
 #!/usr/bin/env perl
 use utf8;
 use strict;
-use File::Slurp qw[ read_file write_file ];
 my @map = read_file( 'x-造字.csv', binmode => ':utf8' ) ;
 shift @map;
 my (%symToUni, %symToPua);
@@ -30,3 +29,17 @@ for my $file (<raw/*.csv>) {
     write_file( $file, {binmode => ':utf8'}, $csv ) ;
     print "$file\n";
 }
+sub read_file {
+    my $file_name = shift;
+    open FH, '<:utf8', $file_name or die $!;
+    read FH, my $buf, -s FH;
+    close FH;
+    return $buf;
+}
+sub write_file {
+    my $file_name = shift;
+    open FH, '>:utf8', $file_name or die $!;
+    print FH @_ or die $!;
+    close FH;
+}
+
