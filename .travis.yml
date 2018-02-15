@@ -1,0 +1,12 @@
+sudo: false
+dist: trusty
+language: perl
+perl:
+- '5.24'
+- '5.22'
+branches:
+  only:
+  - master
+script:
+- perl ./csv2uni.pl
+
