@@ -31,15 +31,16 @@ for my $file (<raw/*.csv>) {
 }
 sub read_file {
     my $file_name = shift;
+    local *FH;
     open FH, '<:utf8', $file_name or die $!;
+    return <FH> if wantarray;
     read FH, my $buf, -s FH;
-    close FH;
     return $buf;
 }
 sub write_file {
-    my $file_name = shift;
+    my $file_name = shift; shift if @_ and ref $_[0];
+    local *FH;
     open FH, '>:utf8', $file_name or die $!;
     print FH @_ or die $!;
-    close FH;
 }
 
