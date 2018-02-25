@@ -1,5 +1,6 @@
 .mode csv
 .header on
+.import 'x-筆畫.csv' strokes
 .import 'x-造字.csv' pua
 .import 'uni/對應華語.csv' m2t
 .import 'uni/例句.csv' examples
@@ -16,3 +17,4 @@ CREATE INDEX idx_詞目 ON entries(詞目);
 CREATE INDEX idx_屬性 ON entries(屬性);
 CREATE INDEX idx_a ON antonyms(主編碼);
 CREATE INDEX idx_s ON synonyms(主編碼);
+CREATE INDEX idx_title ON strokes(title);

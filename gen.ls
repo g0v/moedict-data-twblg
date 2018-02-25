@@ -26,15 +26,13 @@ stmt-nym = db.prepare """
 """
 
 (, res) <- db.all """
-  SELECT DISTINCT 詞目 title, MAX(部首) radical FROM entries
+  SELECT DISTINCT 詞目 title, radical, non_radical_stroke_count, stroke_count FROM entries
+   LEFT JOIN strokes on entries.詞目 = strokes.title
    WHERE 屬性 IN ('1', '25')
    GROUP BY 詞目
    ORDER BY 詞目
 """, []
 for let x in res
-  unless x.radical
-    delete x.strokes
-    delete x.radical
   x.heteronyms = []
   (,ns) <- stmt-ent.all [x.title]
   for let nym in ns
@@ -52,4 +50,12 @@ for let x in res
         delete def.example
       def
     x.heteronyms.push nym
+  if x.radical
+    x.stroke_count = +delete x.stroke_count
+    x.non_radical_stroke_count = +delete x.non_radical_stroke_count
+  else
+    delete x.strokes
+    delete x.radical
+    delete x.stroke_count
+    delete x.non_radical_stroke_count
 db.close -> console.log require(\unorm).nfd JSON.stringify(res,, 2)
