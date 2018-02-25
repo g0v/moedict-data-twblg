@@ -1,11 +1,21 @@
 require! <[ fs alasql ]>
 csv-to-json = require \csv-parse/lib/sync
 
-export db = new alasql.Database
+export db = new alasql.Database('twblg')
+
 for table, file of TableToFile!
   data = fs.readFileSync file
   db.exec "CREATE TABLE #table"
   db.tables[table].data = csv-to-json data, {columns: -> esc(it).split /,/ }
+
+for c in <[ 主編碼 詞目 屬性 ]>
+  db.exec(esc "CREATE INDEX idx_#c ON entries(#c)")
+
+export stmt = alasql.compile(esc("""
+  SELECT 主編碼 id
+    FROM entries
+   WHERE 詞目 = ?
+"""), 'twblg')
 
 export function esc (u)
   escape(u).replace(/%([0-9A-F]{2})/g (,h) -> String.fromCharCode(parseInt h, 16)).replace(/%/g, '_')

@@ -1,9 +1,15 @@
-#!/usr/bin/env lsc
-{ db, esc } = require './alasql-db.ls'
+#!/usr/bin/env lsc -p
+{ db, escm, stmt } = require './alasql-db.ls'
+
+console.log stmt
+process.exit!
+
+db.exec(esc "CREATE INDEX idx_a ON antonyms(主編碼)")
+db.exec(esc "CREATE INDEX idx_s ON synonyms(主編碼)")
 
 x <- db.exec(esc """
   SELECT DISTINCT 詞目 title, MAX(部首) radical FROM entries
-   WHERE 屬性::int IN (1,25)
+   WHERE 屬性 IN ('1', '25')
    GROUP BY 詞目
    ORDER BY 詞目
 """).map
@@ -13,17 +19,27 @@ unless x.radical
   delete x.radical
 
 x.heteronyms = db.exec(esc("""
-  SELECT 主編碼 id, 音讀 trs, 文白 reading, -- 方言差對應 dialects,
-           (SELECT string_agg(
-             (SELECT 詞目 FROM entries WHERE 主編碼 = 反義詞對應), ','
-           ) FROM antonyms WHERE 主編碼 = entries.主編碼) antonyms,
-           (SELECT string_agg(
-             (SELECT 詞目 FROM entries WHERE 主編碼 = 近義詞對應), ','
-           ) FROM synonyms WHERE 主編碼 = entries.主編碼) synonyms
+  SELECT 主編碼 id
     FROM entries
-   WHERE 詞目 = ? AND 屬性::int IN (1,25)
+   WHERE 詞目 = ?
+"""), [x.title])
+/*
+x.heteronyms = db.exec(esc("""
+  SELECT 主編碼 id, 音讀 trs, 文白 reading,
+           (SELECT ARRAY( 反義詞對應 ) FROM antonyms WHERE 主編碼 = entries.主編碼) antonyms,
+           (SELECT ARRAY( 近義詞對應 ) FROM synonyms WHERE 主編碼 = entries.主編碼) synonyms
+    FROM entries
+   WHERE 詞目 = ? AND 屬性 IN ('1', '25')
    ORDER BY 主編碼
 """), [x.title]).map (nym) ->
+  if nym.antonyms
+    nym.antonyms = db.exec(esc("""
+      SELECT 詞目 title FROM entries WHERE 主編碼 IN (
+    """) + nym.antonyms.map(->"'#it'").join(',') + ")").map((.title)).join(',')
+  if nym.synonyms
+    nym.synonyms = db.exec(esc("""
+      SELECT 詞目 title FROM entries WHERE 主編碼 IN (
+    """) + nym.synonyms.map(->"'#it'").join(',') + ")").map((.title)).join(',')
   if +nym.reading
     nym.reading = ".文白俗替"[nym.reading]
   else
@@ -42,4 +58,5 @@ x.heteronyms = db.exec(esc("""
   delete nym.synonyms unless nym.synonyms
   delete nym.antonyms unless nym.antonyms
   nym
-console.log x
+*/
+console.log JSON.stringify(x)
