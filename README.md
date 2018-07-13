@@ -14,3 +14,10 @@ http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp
 
 此處轉換格式、重新編排的編輯著作權(如果有的話)由 唐鳳
 以 CC0 釋出。
+
+### 發現資料錯誤更新方式
+1. 可以先回報[教育部](https://email.moe.gov.tw/EDU_WEB/sendmail/send.php?sGo=1)
+2. 然後再[申請新的資料](http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp)下來
+3. 將申請到的`xls`，轉成`csv`，放在`raw/`
+4. 用`csv2uni.pl`轉出`pua/`,`uni/`版本
+5. PR更新專案資料
