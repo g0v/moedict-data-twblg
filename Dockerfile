@@ -1,5 +1,5 @@
-FROM node:alpine
-RUN apk add --update LiveScript
+FROM cromo/livescript
+# RUN apk add --update LiveScript
 RUN apk add --update make
 RUN apk add --update sqlite
 RUN apk add --update perl
@@ -11,3 +11,4 @@ RUN make all
 RUN sed 's/\r//g' -i dict-twblg.json
 RUN sed 's/\r//g' -i index.json
 
+CMD cat dict-twblg.json
