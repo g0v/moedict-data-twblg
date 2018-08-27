@@ -21,3 +21,14 @@ http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp
 3. 將申請到的`xls`，轉成`csv`，放在`raw/`
 4. 用`csv2uni.pl`轉出`pua/`,`uni/`版本
 5. PR更新專案資料
+
+### 更新萌典
+```
+time docker build -t twblg .
+docker run --rm twblg cat index.json > index.json
+docker run --rm twblg cat dict-twblg.json > dict-twblg.json
+```
+#### 安裝docker
+- 安裝 [docker](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
+- 安裝 [docker-compose](https://docs.docker.com/compose/install/)
+- 設定docker權限（Ubuntu）：`sudo usermod -aG docker $USER`
