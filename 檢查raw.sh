@@ -1,5 +1,5 @@
 #!/bin/bash
-find . -name '*trs' -exec grep [$'\x02'$'\x0e'] -H {} \; | grep -v ':0$'
+find raw/ -name '*csv' -exec grep [$'\x02'$'\x0e'] -H {} \; | grep -v ':0$'
 val=$?
 if [ $val -eq 0 ]; then
   echo "面頂的檔案有控制字元！！"
