@@ -8,5 +8,6 @@ branches:
   only:
   - master
 script:
+- bash 檢查raw.sh
 - perl ./csv2uni.pl
 
