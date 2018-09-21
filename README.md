@@ -22,7 +22,7 @@ http://twblg.dict.edu.tw/holodict_new/compile1_6_1.jsp
 ```
 sed 's/'$'\x02''//g' -i raw/*
 sed 's/'$'\x0e''//g' -i raw/*
-dos2unix *
+dos2unix raw/*
 ```
 5. 用`csv2uni.pl`轉出`pua/`,`uni/`版本
 6. PR更新專案資料
