@@ -1,7 +1,7 @@
-序號,方言差編碼,詞目,鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
+﻿序號,方言差編碼,詞目,鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
 1,[方1]0001,醫院,"病院　pǐnn-ǐnn, 醫生館　i-sing-kuán","病院　pīnn-īnn, 醫生館　i-sing-kuán","病院　pīnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán","病院　pēnn-īnn, 醫生館　i-sing-kuán",醫院　i-īnn,"醫生館　i-sing-kuán, 病院　pīnn-īnn",病院　pīnn-ìnn,"病院　pēnn-ìnn, 醫生館　i-sing-kuán"
 2,[方1]0002,看醫生,看醫生　khuànn-i-sing,看醫生　khuànn-i-sing,"予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing","予醫生看　hōo-i-sing-khuànn, 看醫生　khuànn-i-sing",予醫生看　hōo i-sing khuànn,"看醫生　khuànn-i-sing, 揣醫生　tshē-i-sing","予醫生看　hōo i-sing khuànn, 看醫生　khuànn-i-sing",看醫生　khuànn-i-sing
-3,[方1]0003,把脈,"{F5AB}脈　bāi-be̍h, 節脈　tsat-be̍h",節脈　tsat-bē,節脈　tsat-me̍h,節脈　tsat-mē,"節脈　tsat-me̍h, 摸脈　bong-me̍h","節脈　tsat-me̍h, 候脈　hāu-me̍h","候脈　hāu-be̍h, 掠脈　lia̍h-be̍h, {F5AB}脈　bāi-be̍h, 扞脈　huānn-be̍h","候脈　hāu-me̍h, 節脈　tsat-me̍h, {F5AB}脈　bāi-me̍h",節脈　tsat-be̍h　,節脈　tsat-meh 
+3,[方1]0003,把脈,"𥌚脈　bāi-be̍h, 節脈　tsat-be̍h",節脈　tsat-bē,節脈　tsat-me̍h,節脈　tsat-mē,"節脈　tsat-me̍h, 摸脈　bong-me̍h","節脈　tsat-me̍h, 候脈　hāu-me̍h","候脈　hāu-be̍h, 掠脈　lia̍h-be̍h, 𥌚脈　bāi-be̍h, 扞脈　huānn-be̍h","候脈　hāu-me̍h, 節脈　tsat-me̍h, 𥌚脈　bāi-me̍h",節脈　tsat-be̍h　,節脈　tsat-meh 
 4,[方1]0004,注射,注射　tsù-siǎ; tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,注射　tsù-siā,"拍針　phah-tsam, 注射　tsù-siā",注射　tsù-siā,注射　tsù-siā,注射　tsù-siā
 5,[方1]0005,艾,艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn,"艾　hiānn, 艾草　hiānn-tsháu",艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn,艾　hiānn
 6,[方1]0006,拜拜,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài,拜拜　pài-pài
@@ -46,7 +46,7 @@
 46,[方1]0046,小偷,賊仔　tsha̍t-á,賊仔　tsha̍t-á,賊仔　tsha̍t-á,勍仔　khiang-á,賊仔　tsha̍t-á,勍仔　khiang-á,鼠賊仔　tshír-tsha̍t--á,賊　tsha̍t,賊仔　tsha̍t-á,賊仔　tsha̍t-á
 47,[方1]0047,扒手,剪綹　tsián-liú,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú--á,剪綹仔　tsián-liú--á,剪綹仔　tsián-liú-á,剪綹仔　tsián-liú-á
 48,[方1]0048,流氓,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ,鱸鰻　lôo-muâ
-50,[方1]0050,早死(詈語),夭壽仔　iáu-siū-á,夭壽死囡仔　iáu-siū-sí-gín-á,夭壽仔　iáu-siū-á,"夭壽　iáu-siū, 膨肚短命　phòng-tōo-té-miā","夭壽仔　iáu-siū-á, 膨肚短命　phòng-tōo-té-miā",夭壽　iáu-siū,夭壽　iáu-siū,夭壽　iáu-siū,孤毛絕種　koo-moo-tse̍rh-tsíng; koo-moo-tse̍h-tsíng,孤{F439}　koo-khut
+50,[方1]0050,早死(詈語),夭壽仔　iáu-siū-á,夭壽死囡仔　iáu-siū-sí-gín-á,夭壽仔　iáu-siū-á,"夭壽　iáu-siū, 膨肚短命　phòng-tōo-té-miā","夭壽仔　iáu-siū-á, 膨肚短命　phòng-tōo-té-miā",夭壽　iáu-siū,夭壽　iáu-siū,夭壽　iáu-siū,孤毛絕種　koo-moo-tse̍rh-tsíng; koo-moo-tse̍h-tsíng,孤𣮈　koo-khut
 51,[方1]0051,燒,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian,煎　tsian
 52,[方1]0052,盪,盪　tňg,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g,盪　tn̄g
 53,[方1]0053,爆油,"炸油　tsuànn-iû, 煏油　piak-iû",煏油　piak-iû,炸油　tsuànn-iû,煏油　piak-iû,"炸油　tsuànn-iû, 煏油　piak-iû","炸油　tsuànn-iû, 煏油　piak-iû",炸油　tsuànn-iû,炸油　tsuànn-iû,"炸油　tsuànn-iû, 煏油　piak-iû",炸豬油　tsuànn-ti-iû 
@@ -82,10 +82,10 @@
 83,[方1]0083,木魚,嘓魚　kho̍k-hîr,嘓魚　kho̍k-hîr,嘓　kho̍k,"木魚　bo̍k-hî, 嘓魚　kho̍k-hî",嘓仔　khok-á,"木魚　bo̍k-hî, 嘓魚　go̍k-hî",嘓魚　kho̍k-hîr,嘓魚　kho̍k-hû,"嘓　khok; kho̍k, 木魚　bo̍k-gîr",木魚　bo̍k-hî
 84,[方1]0084,說謊,白賊　pe̍h-tsha̍t,白賊　pē-tsha̍t,白賊　pe̍h-tsha̍t,白賊　pe̍h-tsha̍t,白賊　pe̍h-tsha̍t,白賊　pe̍h-tsha̍t,"白賊　pe̍h-tsha̍t, 呺六　hau-la̍k",白賊　pe̍h-tsha̍t ,白賊　pe̍h-tsha̍t ,講白賊　kóng-pe̍h-tsha̍t 
 85,[方1]0085,姦夫,契兄　khè-hiann,契兄　kherè-hiann,契兄　khuè-hiann,"契兄　khè-hiann, 猴　kâu","契兄　khè-hiann, 猴　kâu","契兄　khè-hiann, 猴　kâu","契兄　khuè-hiann, 猴　kâu",契兄　khuè-hiann ,契兄　khè-hiann ,契兄　khè-hiann 
-86,[方1]0086,絕子絕孫(詈語),"鏨頭短命　tsǎm-thâu-té-miā, 絕種　tse̍rh-tsíng, 膨肚短命　phòng-tǒo-té-miā","孤{F439}　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tsēr-tsíng","孤{F439}　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tse̍h-tsíng","孤{F439}　koo-khu̍t, 孤{F439}絕種　koo-khu̍t-tse̍h-tsíng, 無傳　bô-thuînn","孤{F439}　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tsua̍t-tsíng, 孤毛絕種　koo-moo-tse̍h-tsíng","孤{F439}絕種　koo-khu̍t-tse̍h-tsíng, 無傳　bôr-thn̂g, 無嗣　bôr-sû, 孤毛絕種　koo-moo-tse̍h-tsíng","孤{F439}　koo-khu̍t, 絕種　tse̍rh-tsíng","孤{F439}　koo-khu̍t, 絕種　tse̍h-tsíng",孤毛絕種　koo-moo-tse̍rh-tsíng,孤{F439}絕種　koo-khu̍t-tse̍h-tsíng
+86,[方1]0086,絕子絕孫(詈語),"鏨頭短命　tsǎm-thâu-té-miā, 絕種　tse̍rh-tsíng, 膨肚短命　phòng-tǒo-té-miā","孤𣮈　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tsēr-tsíng","孤𣮈　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tse̍h-tsíng","孤𣮈　koo-khu̍t, 孤𣮈絕種　koo-khu̍t-tse̍h-tsíng, 無傳　bô-thuînn","孤𣮈　koo-khu̍t, 無傳　bô-thn̂g, 絕種　tsua̍t-tsíng, 孤毛絕種　koo-moo-tse̍h-tsíng","孤𣮈絕種　koo-khu̍t-tse̍h-tsíng, 無傳　bôr-thn̂g, 無嗣　bôr-sû, 孤毛絕種　koo-moo-tse̍h-tsíng","孤𣮈　koo-khu̍t, 絕種　tse̍rh-tsíng","孤𣮈　koo-khu̍t, 絕種　tse̍h-tsíng",孤毛絕種　koo-moo-tse̍rh-tsíng,孤𣮈絕種　koo-khu̍t-tse̍h-tsíng
 87,[方1]0087,煎藥,煎　tsuann,煎藥仔　tsuann-io̍h-á,煎藥仔　tsuann-io̍h-á,煎藥仔　tsuann-io̍rh-á,煎　tsuann,煎藥仔　tsuann-io̍rh-á,煎藥　tsuann-io̍h,煎藥　tsuann-io̍h,煎藥　tsuann-io̍h,煎藥仔　tsuann-io̍h-á
 88,[方1]0088,踩高蹺,接跤　tsiap-kha,踏蹺　tā-khiau,踏蹺　ta̍h-khiau,踏蹺　tā-khiau,"踏跤蹺　ta̍h-kha-khiau, 踏蹺　ta̍h-khiau",踏蹺　ta̍h-khiau,踏蹺　ta̍h-khiau,踏跤蹺　ta̍h-kha-khiau,踏蹺　ta̍h-khiau,踏蹺　ta̍h-khiau
-89,[方1]0089,聊天,畫虎{F451}　uě-hóo-lǎn,"破豆　phò-tāu, 開講　khai-káng, 畫虎{F451}　uē-hóo-lān","開講　khai-káng, 敲虎{F451}　khà-hóo-lān","開講　khai-káng, 畫虎{F451}　uē-hóo-lān","開講　khai-káng, 畫虎{F451}　uē-hóo-lān","破豆　phòr-tāu, 開講　khai-káng, 畫虎{F451}　uē-hóo-lān","答喙鼓　tap-tshuì-kóo, 開講　khai-káng",畫虎{F451}　uī-hóo-lān,開講　khai-káng,"開講　khai-káng, 破豆　phò-tāu"
+89,[方1]0089,聊天,畫虎𡳞　uě-hóo-lǎn,"破豆　phò-tāu, 開講　khai-káng, 畫虎𡳞　uē-hóo-lān","開講　khai-káng, 敲虎𡳞　khà-hóo-lān","開講　khai-káng, 畫虎𡳞　uē-hóo-lān","開講　khai-káng, 畫虎𡳞　uē-hóo-lān","破豆　phòr-tāu, 開講　khai-káng, 畫虎𡳞　uē-hóo-lān","答喙鼓　tap-tshuì-kóo, 開講　khai-káng",畫虎𡳞　uī-hóo-lān,開講　khai-káng,"開講　khai-káng, 破豆　phò-tāu"
 90,[方1]0090,配藥,敆藥仔　kap-io̍h-á,敆藥仔　kap-io̍h-á,敆藥仔　kap-io̍h-á,"敆藥仔　kap-io̍h-á, 搣藥仔　me-io̍h-á",敆藥仔　kap-io̍rh-á,敆藥仔　kap-io̍rh-á,敆藥　kap-io̍h,敆藥　kap-io̍h,敆藥　kap-io̍h,敆藥仔　kap-io̍h-á
 91,[方1]0091,人參,人參　lîn-serm,人參　jîn-sim,人參　lîn-sim,人參　jîn-sim,人參　jîn-sim,人參仔　jîn-sim-á,人參　lîn-sim,人參　jîn-song,"高麗　ko-lê, 高麗參　ko-lê-sim, 野參　iá-sam",人參　gîn-som
 92,[方1]0092,手搖鼓、波浪鼓,賣搖鼓的　buě-iô-kóo--ê,玲瑯鼓　lin-long-kóo,玲瑯鼓　lin-long-kóo,玲瑯鼓　lin-long-kóo,玲瑯鼓　lin-long-kóo,玲瑯鼓　lin-long-kóo,搖鼓　iô-kóo,人公鼓　jîn-kang-kóo,賣搖鼓　buē-iô-kóo,暫無資料　
@@ -143,8 +143,8 @@
 147,[方1]0147,躺椅,䖙椅　the-í,䖙椅　the-í,䖙椅　the-í,䖙椅　thenn-í,䖙椅　the-í,䖙椅　the-í,䖙椅　the-í,䖙椅　the-í,䖙椅　the-í,䖙椅　the-í
 148,[方1]0148,抽屜,屜　thuah,屜　thuah,屜仔　thuah-á,屜仔　thuah-á,屜仔　thuah-á,屜仔　thuah-á,櫥屜　tû-thuah,屜　thuah,屜　thuah,屜仔　thuah-á
 149,[方1]0149,梳子,"捋仔　lua̍h-á, 柴梳　tshâ-sue","捋仔　luā-á, 柴梳　tshâ-sere","捋仔　lua̍h-á, 柴梳　tshâ-sue","捋仔　luā-á, 柴梳　tshâ-se","捋仔　lua̍h-á, 柴梳　sâ-se","捋仔　lua̍h-á, 柴梳　tshâ-se",捋仔　luai̍h-á,"捋仔　luai̍h--á, 頭梳　thâu-sue","捋仔　luai̍h-á, 柴梳　tshâ-sue","捋仔　luai̍h-á(小), 柴梳　tshâ-se(大)"
-150,[方1]0150,禮籃,{F541}籃　siǎnn-nâ,{F541}籃　siānn-nâ,{F541}崁　siānn-khàm,{F541}籃　siānn-nâ,{F541}籃　siānn-nâ,{F541}籃　siānn-nâ,{F541}籃　siā-nâ,{F541}籃　siā-nâ,{F541}籃　siā-nâ,{F541}籃　siānn-nâ
-151,[方1]0151,禮箱,{F541}　siǎnn; siānn,春{F541}　tshun-siānn,篾絲籃仔　bi̍h-si-nâ-á,禮{F541}　lé-siānn,{F541}　siānn,{F541}　siānn,{F541}　siānn,{F541}　siānn,{F541}　siānn,{F541}　siānn
+150,[方1]0150,禮籃,𣛮籃　siǎnn-nâ,𣛮籃　siānn-nâ,𣛮崁　siānn-khàm,𣛮籃　siānn-nâ,𣛮籃　siānn-nâ,𣛮籃　siānn-nâ,𣛮籃　siā-nâ,𣛮籃　siā-nâ,𣛮籃　siā-nâ,𣛮籃　siānn-nâ
+151,[方1]0151,禮箱,𣛮　siǎnn; siānn,春𣛮　tshun-siānn,篾絲籃仔　bi̍h-si-nâ-á,禮𣛮　lé-siānn,𣛮　siānn,𣛮　siānn,𣛮　siānn,𣛮　siānn,𣛮　siānn,𣛮　siānn
 152,[方1]0152,手電筒,手電火　tshiú-tiān-hér,手電仔　tshiú-tiān-á,手電　tshiú-tiān,手電　tshiú-tiān,手電　tshiú-tiān,手電仔　tshiú-tiān-á,手電　tshiú-tiān,手電　tshiú-tiān,手電　tshiú-tiān,手電仔　tshiú-tiān-á
 153,[方1]0153,廚房,灶跤　tsàu-kha,"灶跤　tsàu-kha, 廚房　tû-pâng","灶跤　tsàu-kha, 廚房　tû-pâng","灶跤　tsàu-kha, 廚房　tû-pâng","灶跤　tsàu-kha, 廚房　tû-pâng","灶跤　tsàu-kha, 廚房　tû-pâng",灶跤　tsàu-kha,灶跤　tsàu-kha,灶跤　tsàu-kha,"灶跤　tsàu-kha, 廚房　tû-pâng"
 154,[方1]0154,灶,灶　tsàu,大灶　tuā-tsàu,灶　tsàu,灶　tsàu,灶　tsàu,灶　tsàu,灶　tsàu,灶　tsàu,灶　tsàu,灶　tsàu
@@ -182,7 +182,7 @@
 188,[方1]0188,裡面,內底　lāi-tué,內底　lāi-teré,內底　lāi-tué,"內底　lāi-té, 內面　lāi-bīn","內底　lāi-té, 內面　lāi-bīn","內底　lāi-té, 內面　lāi-bīn",內底　lāi-tué,內底　lāi-tué,"內底　lāi-tué, 內面　lāi-bīn","內底　lāi-té, 內面　lāi-bīn"
 189,[方1]0189,羅盤,羅經　lô-kinn,羅經　lô-kinn,羅經　lô-kinn,羅經　lô-kenn,羅經　lôr-kenn,羅經　lôr-kenn,羅經　lô-kinn,"羅經　lô-kinn, 干經　kan-kinn",羅經　lô-kinn,羅經　lô-kenn
 190,[方1]0190,東西,"物　mn̍gh, 物件　mn̍gh-kiānn",物件　mn̍gh-kiānn,物件　mn̄g-kiānn,"物仔　mī-á, 物件　mī-kiānn","物仔　mih-á, 物件　mi̍h-kiānn","物仔　mih-á, 物件　mi̍h-kiānn","物　mn̍gh, 物件　mn̍gh-kiānn ","物　mn̍gh, 物件　mn̍gh-kiānn ",物件　mn̍gh-kiānn ,物件　mi̍h-kiānn
-191,[方1]0191,洗石,浮石　phû-tsio̍h,暫無資料　,冇石仔　phànn-tsio̍h-á,咾{F4DC}石　ló-kó-tsiō,冇石仔　phànn-tsio̍rh-á,冇石仔　phànn-tsio̍rh-á,海浮石　hái-phû-tsio̍h,冇硓{F4DC}　phànn-lóo-kóo,冇石　phànn-tsio̍h,冇石　phànn-tsio̍h
+191,[方1]0191,洗石,浮石　phû-tsio̍h,暫無資料　,冇石仔　phànn-tsio̍h-á,咾𥑮石　ló-kó-tsiō,冇石仔　phànn-tsio̍rh-á,冇石仔　phànn-tsio̍rh-á,海浮石　hái-phû-tsio̍h,冇硓𥑮　phànn-lóo-kóo,冇石　phànn-tsio̍h,冇石　phànn-tsio̍h
 192,[方1]0192,毛巾,面巾　bǐn-kun,面巾　bīn-kirn,面巾　bīn-kun,面巾　bīn-kin,面巾　bīn-kin,面巾　bīn-kin,"面巾　bīn-kun, 面布　bīn-pòo","面巾　bīn-kun, 面布　bīn-pòo",面巾　bīn-kun ,"面布　bīn-pòo, 面巾　bīn-kin "
 193,[方1]0193,手帕,手巾仔　tshiú-kun-á,手巾仔　tshiú-kirn-á,手巾仔　tshiú-kun-á,手巾仔　tshiú-kin-á,手巾仔　tshiú-kin-á,手巾仔　tshiú-kin-á,手巾　tshiú-kun ,手巾仔　tshiú-kun--á,手巾仔　tshiú-kun-á ,手巾仔　tshiú-kin-á 
 194,[方1]0194,剪刀,鉸刀　ka-to,鉸刀　ka-to,鉸刀　ka-to,鉸刀　ka-to,鉸刀　ka-tor,鉸刀　ka-tor,"鉸刀　ka-to, 鉸剪　ka-tsián, 鉸攆　ka-lián",鉸刀　ka-to ,鉸刀　ka-to　,鉸刀　ka-to　
@@ -201,7 +201,7 @@
 207,[方1]0207,油燈,"油寄　iû-khia̍h, 油燈　iû-ting","油寄仔　iû-kia̍h-á, 油寄仔火　iû-kia̍h-á-hér","油寄仔火　iû-kia̍h-á-hé, 磺火　hông-hé","油寄仔　iû-khiā-á, 磺火　hông-hué",燈火　ting-hué,燈火　ting-hué,油燈仔　iû-ting--á,燈仔火　ting-á-hé,油攑仔　iû-kia̍h-á,手攑仔火　tshiú-kia̍h-á-hué
 208,[方1]0208,火柴,番仔火　huan-á-hér,番仔火　huan-á-hér,番仔火　huan-á-hé,番仔火　huan-á-hué,番仔火　huan-á-hué,番仔火　huan-á-hué,"番仔火　huan-á-hér, 火劃仔　hér-uih--á, 火擦仔　hér-tshat--á",番仔火　huan-á-hé ,番仔火　huan-á-hér; huan-á-hé,番仔火　huan-á-hué
 209,[方1]0209,木炭,火炭　hér-thuànn,火炭　hér-thuànn,火炭　hé-thuànn,火炭　hué-thuànn,火炭　hué-thuànn,火炭　hué-thuànn,火炭　hér-thuànn,火炭　hé-thuànn,火炭　hér-thuànn; hé-thuànn　,火炭　hué-thuànn 
-210,[方1]0210,菜蓋網,桌罩　toh-tàu,桌罩　toh-tàu,桌崁　toh-khàm,桌崁　toh-khàm,"桌{F506}　torh-kám, 桌崁　torh-khàm, 桌罩　torh-tà, 桌蓋　torh-kuà","桌崁　torh-khàm, 桌罩　toh-tà",桌罩　toh-tà,桌崁　toh-khàm,桌罩　toh-tàu,桌崁　toh-khàm
+210,[方1]0210,菜蓋網,桌罩　toh-tàu,桌罩　toh-tàu,桌崁　toh-khàm,桌崁　toh-khàm,"桌𥴊　torh-kám, 桌崁　torh-khàm, 桌罩　torh-tà, 桌蓋　torh-kuà","桌崁　torh-khàm, 桌罩　toh-tà",桌罩　toh-tà,桌崁　toh-khàm,桌罩　toh-tàu,桌崁　toh-khàm
 212,[方1]0212,水田,田　tshân,"田　tshân, 湳田　làm-tshân","田　tshân, 湳田　làm-tshân",田　tshân,田　tshân,田　tshân,田　tshân,田　tshân,田　tshân,田　tshân
 213,[方1]0213,私房錢,私奇　sai-kha,私奇　sai-khia,私奇　sai-khia,私奇　sai-khia,私奇　sai-khia,私奇　sai-khia,私奇錢　sai-khiann-tsînn,私奇錢　sai-khiann-tsînn,私奇　sai-khia,私奇　sai-khia
 214,[方1]0214,水桶,捾桶仔　kuānn-tháng-á,捾桶仔　kuānn-tháng-á,捾桶仔　kuānn-tháng-á,捾桶仔　kuānn-tháng-á,"拔桶仔　pua̍h-tháng-á, 捾桶仔　kuānn-tháng-á",捾桶仔　kuānn-tháng-á,暫無資料　,捾桶　kuānn-tháng,"水桶　tsuí-tháng, 拔桶　pua̍nnh-tháng",水桶　tsuí-tháng
@@ -213,7 +213,7 @@
 220,[方1]0220,晚上,"下昏暗　ing-àm, 暗時　àm-sî, 暗頭仔　àm-thâu-á","下昏暗　e-hng-àm, 暗時　àm-sî","下昏　e-hng, 下昏暗時　ing-àm-sî, 暗時　àm-sî, 暗頭仔　àm-thâu-á","下昏　e-huinn, 下暗　enn-àm, 暗時　àm-sî, 暗時仔　àm-sî-á, 暗頭仔　àm-thâu-á","下昏　e-hng; i̋ng, 下昏暗　ing-àm, 暗時　àm-sî, 暗時仔　àm-sî-á, 暗頭仔　àm-thâu-á, 暝時　mê--sî","下昏　e-hng, 下暗　e-àm, 暗時　àm-sî, 暗時仔　àm-sî-á, 暗頭仔　àm-thâu-á, 暝時　mê--sî","暗時　àm-sî, 下昏時　ing-sî","暝時　mî-sî, 下昏　ē-hng, 此暝昏　tsiùnn-mî-hng　","暗時　àm-sî, 下昏暗時　ing-àm-sî ",暗時　àm-sî 
 221,[方1]0221,夏天,"熱人　lua̍h--lâng, 熱天　lua̍h-thinn",夏仔　hē-á,"夏天　hā-thinn, 熱人　lua̍h--lâng, 熱天　lua̍h-thinn","夏天　hā-thinn, 熱人　juā--lâng, 熱天　juā-thinn","夏天　hā-thinn, 熱人　jua̍h--lâng, 熱天　jua̍h-thinn","夏天　hā-thinn, 熱人　jua̍h--lâng, 熱天　jua̍h-thinn","夏天　hā-thinn, 熱天　lua̍h-thinn","夏天　hā-thinn, 熱天　jua̍h-thinn, 熱人　jua̍h--lâng","夏天　hā-thinn, 熱天人　lua̍h-thinn--lâng",熱天　jua̍h-thinn
 222,[方1]0222,垃圾,"垃圾仔　lah-sap-á, 糞埽　pùn-sò",糞埽　pùn-sò,"垃圾仔　lah-sap-á, 垃儳仔　lâ-sâm-á, 糞埽　pùn-sò","垃圾仔　lah-sap-á, 糞埽　pùn-sò","垃圾仔　lah-sap-á, 糞埽　pùn-sòr","垃圾仔　lah-sap-á, 糞埽　pùn-sòr","糞埽　pùn-sò, 垃圾　lap-sap",糞埽　pùn-sò ,糞埽　pùn-sò ,糞埽　pùn-sò 
-223,[方1]0223,舀糞具,尿桸　liǒ-hia,"尿桸　jiō-hia, 肥桸　puî-hia",尿桸　liō-hia,尿桸　jiō-hia,尿桸　jiōr-hia,尿桸　jiōr-hia,粗桸　tshoo-hia,肥桸　puî-hia,尿桸　liō-hia,"屎{F595}仔　sái-khat-á, 尿桸　jiō-hia"
+223,[方1]0223,舀糞具,尿桸　liǒ-hia,"尿桸　jiō-hia, 肥桸　puî-hia",尿桸　liō-hia,尿桸　jiō-hia,尿桸　jiōr-hia,尿桸　jiōr-hia,粗桸　tshoo-hia,肥桸　puî-hia,尿桸　liō-hia,"屎𣁳仔　sái-khat-á, 尿桸　jiō-hia"
 224,[方1]0224,火鉗,火夾　hér-gue̍h,火鉗　hér-khînn,火鉗　hé-khînn,火夾　hué-ngeh,"火夾　hué-ngeh, 火箸　hué-tī",火夾　hué-ngeh,暫無資料　,火夾　hé-ngueh,火鉗　hér-khînn; hé-khînn,暫無資料　
 225,[方1]0225,抽水機,幫浦仔　phóng-phú-á,幫浦　phóng-phuh,幫浦仔　phóng-phu-á,幫浦仔　phóng-phu-á,"水拹仔　tsuí-hia̍p-á, 幫浦仔　phóng-phu-á","水拹仔　tsuí-hia̍p-á, 幫浦仔　phóng-phu-á",水磅仔　tsuí-pōng--á,幫浦仔　phòng-phuh--á,幫浦仔　phóng-phu̍h-á,幫浦仔　phóng-phu-á
 226,[方1]0226,撈具,飯篱　pňg-luě,摵仔　tshi̍k-á,飯篱　pn̄g-luē,"飯篱　puīnn-lē, 摵仔　tshi̍k-á","飯篱　pn̄g-lē, 撈仔　lāu-á",飯篱　pn̄g-lē,笊篱　tsuá-lî,飯篱　pn̄g-luē,"飯桸　pn̄g-hia, 飯篱　pn̄g-luē",飯篱　pn̄g-lē
@@ -256,7 +256,7 @@
 263,[方1]0263,鴨仔,鴨仔　ah-á,鴨仔　ah-á,鴨仔　ah-á,鴨仔　ah-á,鴨仔　ah-á,鴨仔　ah-á,鴨　ah,鴨　ah,鴨　ah,鴨　ah
 264,[方1]0264,小鴨,"鴨仔　ah-á, 鴨仔囝　ah-á-kánn",鴨仔囝　ah-á-kánn,鴨仔囝　ah-á-kiánn,鴨仔囝　ah-á-kiánn,鴨仔囝　ah-á-kiánn,鴨仔囝　ah-á-kiánn,鴨仔　ah--á ,鴨仔　ah--á ,鴨仔囝　ah-á-kiánn ,鴨咪仔　ah-bî-á 
 265,[方1]0265,翅膀,雞翼　kue-si̍t,翼　si̍t,翼　si̍t,翼　si̍t,翼　si̍t,"翼　si̍t, 翼股　si̍t-kóo",翼　si̍t,翼　si̍t,翼股　si̍t-kóo,翼　si̍t 
-266,[方1]0266,雨傘節,雨傘節　hǒo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘橐　hōo-suànn-lok,{F4F8}仔節蛇　phín-á-tsat-tsuâ,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat
+266,[方1]0266,雨傘節,雨傘節　hǒo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat,雨傘橐　hōo-suànn-lok,𥰔仔節蛇　phín-á-tsat-tsuâ,雨傘節　hōo-suànn-tsat,雨傘節　hōo-suànn-tsat
 267,[方1]0267,眼鏡蛇,飯匙銃　pňg-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　puīnn-sî-tshìng; pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,飯匙銃　pn̄g-sî-tshìng,"飯匙銃　pn̄g-sî-tshìng, 目鏡蛇　ba̍k-kiànn-tsuâ"
 268,[方1]0268,蜥蜴,"竹虎　tik-hóo, 杜定　tōo-tǐng","四跤杜定　sì-kha-tōo-tīng, 四跤蛇仔　sì-kha-tsuâ-á",四跤仔杜定　sì-kha-á-tōo-tīng,"四跤蛇仔　sì-kha-tsuâ-á, 杜定　tōo-tīng","四跤蛇　sì-kha-tsuâ, 杜定　tōo-tīng","杜定　tōo-tīng, 咕咕公　kū-kú-kong",杜定　tōo-tīng,杜定　tōo-tīng,"杜定　tōo-tīng, 狗母蛇　káu-bó-tsuâ",杜定　tōo-tīng
 269,[方1]0269,癩蛤蟆,螿蜍　tsiunn-tsîr,"螿蜍　tsiunn-tsîr, 蟾蜍　siâm-sîr",螿蜍　tsiunn-tsû,螿蜍　tsiunn-tsî,螿蜍　tsionn-tsû,螿蜍　tsiunn-tsî,螿蜍　tsiunn-tsîr,螿蜍　tsiunn-tsû,螿蜍　tsiunn-tsîr; tsiunn-tsî,螿蜍　tsiunn-tsî
@@ -312,7 +312,7 @@
 319,[方1]0319,水蛭,蜈蜞　gôo-khî,蜈蜞　gôo-khî,"軟蜞　nńg-khî, 蜈蜞　môo-khî","蜈蜞　gôo-khî, 爛蜞　nuā-khî","蜈蜞　ngôo-khî, 噪血　sorh-hueh",蜈蜞　môo-khî,蜈蜞　ngôo-khî,柴蜞　tshâ-khî,蜈蜞　gôo-khî,蜈蜞　gôo-khî
 320,[方1]0320,蜻蜓,田嬰　tshân-ni,田嬰　tshân-ni,田嬰　iân-mi,田嬰　tshân-enn,田嬰　tshân-enn,田嬰　tshân-enn,田嬰　tshân-ni,田嬰　tshân-inn,田嬰　tshân-ni,田嬰　tshân-ne
 321,[方1]0321,蝨子,蝨母　sat-bú,蝨母　sat-bú,蝨母　sat-bó,蝨母　sat-bó,蝨母　sat-bór,蝨母　sat-bú,蝨母　sat-bú,蝨母　sat-bó,蝨母　sat-bú,蝨母　sat-bó
-322,[方1]0322,雞蟲,雞{F383}　kue-tâi,雞{F383}　kere-tâi,雞{F383}　kue-tâi,"雞{F383}　ke-tâi, 雞母蟲　ke-bó-thâng",雞{F383}　ke-tâi,"雞{F383}　ke-tâi, 雞母蟲　ke-bór-thâng",雞{F383}　kue-tâi,雞{F383}　kue-tâi,雞{F383}　kue-tâi,雞{F383}　ke-tâi
+322,[方1]0322,雞蟲,雞𧉟　kue-tâi,雞𧉟　kere-tâi,雞𧉟　kue-tâi,"雞𧉟　ke-tâi, 雞母蟲　ke-bó-thâng",雞𧉟　ke-tâi,"雞𧉟　ke-tâi, 雞母蟲　ke-bór-thâng",雞𧉟　kue-tâi,雞𧉟　kue-tâi,雞𧉟　kue-tâi,雞𧉟　ke-tâi
 323,[方1]0323,鱸魚,鱸魚　lôo-hîr,鱸魚　lôo-hîr,鱸魚　lôo-hû,鱸魚　lôo-hî,鱸魚　lôo-hî,鱸魚　lôo-hî,鱸魚　lôo-hîr,鱸魚　lôo-hû,鱸魚　lôo-hîr; lôo-hî,鱸魚　lôo-hî 
 324,[方1]0324,草魚,草魚　tsháu-hîr,草魚　tsháu-hîr,草魚　tsháu-hû,草魚　tsháu-hî,草魚　tsháu-hî,草魚　tsháu-hî,草魚　tsháu-hîr,草魚　tsháu-hû,草魚　tsháu-hîr; tsháu-hî,草魚　tsháu-hî
 325,[方1]0325,鱔魚,鱔魚　siǎn-hîr,鱔魚　siān-hîr,鱔魚　siān-hû,鱔魚　siān-hî,鱔魚　siān-hî,鱔魚　siān-hî,鱔魚　siān-hîr,鱔魚　siān-hû,鱔魚　siān-hîr; siān-hî,鱔魚　siān-hî
@@ -331,7 +331,7 @@
 338,[方1]0338,蚯蚓,杜蚓　tǒo-lún,杜蚓　tōo-ún,"牛貫　gû-kǹg, 杜蚓仔　tōo-ún-á",杜蚓　tōo-kín,杜蚓仔　tōo-kún-á,杜蚓仔　tōo-kún-á,杜蚓　tōo-ún,塗蚓　thôo-ún,杜蚓　tōo-ún,杜蚓仔　tōo-ún-á
 339,[方1]0339,臭蟲,木蝨　ba̍k-sat,木蝨　ba̍k-sat,木蝨　ba̍k-sat,木蝨　ba̍k-sat,木蝨　ba̍k-sat,木蝨　ba̍k-sat,蛀龜　tsiù-ku,蛀龜　tsiù-ku,木蝨　ba̍k-sat,木蝨　ba̍k-sat
 340,[方1]0340,毛毛蟲,暫無資料　,蟲仔　thâng-á,"貧惰蟲　pîn-tuānn-thâng, 刺角仔蟲　tshì-kak-á-thâng, 雞母蟲　kue-bó-thâng",刺毛蟲　tshì-môo-thâng,刺毛狗蟲　tshì-mî-káu-thâng,刺毛蟲　tshì-môo-thâng,狗毛仔蟲　káu-mn̂g-á-thâng,狗毛仔蟲　káu-mn̂g-á-thâng,刺毛仔蟲　tshì-mî-á-thâng,刺羅仔蟲　tshì-lô-á-thâng
-341,[方1]0341,鯉魚,"{F56A}魚　tǎi-hîr, 鯉魚　lě-hîr",{F56A}仔　tāi-á,{F56A}魚　tāi-hû,"{F56A}魚　tāi-hî, 鯉魚　lē-hî","{F56A}仔魚　tāi-á-hî, 鯉魚　lē-hî","{F56A}仔　tāi-á, 鯉魚　lē-hî",鯉魚　lí-hîr ,{F56A}魚　tāi-hû,"鯉魚　lí-hî, {F56A}仔　tâi-á","烏{F56A}仔　oo-tâi-á, 鯉魚　lē-hî"
+341,[方1]0341,鯉魚,"𩸙魚　tǎi-hîr, 鯉魚　lě-hîr",𩸙仔　tāi-á,𩸙魚　tāi-hû,"𩸙魚　tāi-hî, 鯉魚　lē-hî","𩸙仔魚　tāi-á-hî, 鯉魚　lē-hî","𩸙仔　tāi-á, 鯉魚　lē-hî",鯉魚　lí-hîr ,𩸙魚　tāi-hû,"鯉魚　lí-hî, 𩸙仔　tâi-á","烏𩸙仔　oo-tâi-á, 鯉魚　lē-hî"
 342,[方1]0342,小鯰魚,"塗虱　thôo-sat, 鯰仔魚　liâm-á-hîr",塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat,塗虱　thôo-sat
 343,[方1]0343,泥鰍,鰗鰡　hôo-liu,魚鰡　hîr-liu,魚鰡　hû-liu,鰗鰡　hôo-liu,鰗鰡　hôo-liu,鰗鰡　hôo-liu,魚鰡　hîr-liu,魚鰡　hû-liu,"鰗鰡　hôo-liu, 鱔鰡　siān-liu",鰗鰡　hôo-liu 
 344,[方1]0344,番薯,番薯　han-tsîr,番薯　han-tsîr,番薯　han-tsû,番薯　han-tsî,番薯　han-tsû,番薯　han-tsî,番薯　an-tsîr,番薯　han-tsû,番薯　an-tsîr; han-tsî,番薯　han-tsî
@@ -352,7 +352,7 @@
 359,[方1]0359,豆腐,豆腐　tāu-hǔ,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū,豆腐　tāu-hū
 360,[方1]0360,豆沙,豆沙　tāu-sie,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se,豆沙　tāu-se
 361,[方1]0361,豆豉,"豆豉　tāu-sī, 豆酺　tāu-pôo, 蔭豉　ìm-sī","豆酺　tāu-pôo, 蔭豉粕仔　ìm-sī-phoh-á","豆酺　tāu-pôo, 蔭豉仔　ìm-sīnn-á",蔭豉仔　ìm-sīnn-á,"豆酺　tāu-pôo, 蔭豉　ìm-sīnn","豆酺　tāu-pôo, 蔭豉仔　ìm-sīnn-á",豆豉　tāu-sī　 ,豆豉　tāu-sī　 ,豆豉　tāu-sīnn　 ,蔭豉仔　ìm-sīnn-á　 
-362,[方1]0362,春捲,"潤餅　lǔn-piánn, 潤餅{F4A2}　lǔn-piánn-kauh",潤餅{F4A2}　jūn-piánn-kauh,潤餅{F4A2}　lūn-piánn-kauh,"春捲　tshun-kuínn, 潤餅{F4A2}　lūn-piánn-kauh",潤餅{F4A2}　jūn-piánn-kauh,潤餅{F4A2}　jūn-piánn-kauh,"拭餅　tshit-piánn, 拭餅{F4A2}　tshit-piánn-kauh",薄餅　po̍h-piánn ,"潤餅{F4A2}　lūn-piánn-kauh, 春餅　tshun-piánn, 雞捲　kue-kńg",潤餅{F4A2}　lūn-piánn-kauh
+362,[方1]0362,春捲,"潤餅　lǔn-piánn, 潤餅𩛩　lǔn-piánn-kauh",潤餅𩛩　jūn-piánn-kauh,潤餅𩛩　lūn-piánn-kauh,"春捲　tshun-kuínn, 潤餅𩛩　lūn-piánn-kauh",潤餅𩛩　jūn-piánn-kauh,潤餅𩛩　jūn-piánn-kauh,"拭餅　tshit-piánn, 拭餅𩛩　tshit-piánn-kauh",薄餅　po̍h-piánn ,"潤餅𩛩　lūn-piánn-kauh, 春餅　tshun-piánn, 雞捲　kue-kńg",潤餅𩛩　lūn-piánn-kauh
 363,[方1]0363,粽子,"肉粽　bah-tsàng, 菜粽　tshài-tsàng",鹹粽　kiâm-tsàng,肉粽　bah-tsàng,肉粽　bah-tsàng,"肉粽　bah-tsàng, 菜粽　tshài-tsàng","肉粽　bah-tsàng, 菜粽　tshài-tsàng","肉粽　bah-tsàng, 菜粽　tshài-tsàng","肉粽　bah-tsàng, 菜粽　tshài-tsàng","粽　tsàng, 肉粽　bah-tsàng, 鹼粽　kinn-tsàng, 粿粽　kér-tsàng; ké-tsàng","粽　tsàng, 肉粽　bah-tsàng"
 364,[方1]0364,茶葉,茶心　tê-sim,茶米　tê-bí,"茶心　tê-sim, 茶米　tê-bí","茶心　tê-sim, 茶米　tê-bí",茶心　tê-sim,"茶心　tê-sim, 茶葉　tê-hio̍rh",茶心　tê-sim,茶心　tê-sim,"茶米　tê-bí, 茶心　tê-sim",茶米　tê-bí
 365,[方1]0365,開水,滾水　kún-tsuí,滾水　kún-tsuí,"白茶　pe̍h-tê, 滾水　kún-tsuí",滾水　kún-tsuí,滾水　kún-tsuí,滾水　kún-tsuí,滾水　kún-tsuí,滾水　kún-tsuí,滾水　kún-tsuí,滾水　kún-tsuí
@@ -365,13 +365,13 @@
 372,[方1]0372,味道,氣味　khì-bǐ,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī,氣味　khì-bī
 374,[方1]0374,辣,薟　hiam,薟　hiam,薟　hiam; hiang,薟　hiam,"辣　lua̍h, 薟　hiang",薟　hiam,辣　lua̍h,辣　lua̍h,薟　hiam,薟　hiam
 375,[方1]0376,爛,爛　nuǎ,爛　nuā,爛　nuā,爛　nuā,爛　nuā,爛　nuā,爛　nuā,爛　nuā,爛　nuā,爛　nuā
-376,[方1]0377,嚼勁,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū,{F570}　khiū
+376,[方1]0377,嚼勁,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū,𩚨　khiū
 379,[方1]0380,膩,飫　ìr,飫　uì,飫　uì,飫　uì,飫　uì,飫　uì,飫　ìr,厭　ià,飫　uì,飫　uì
 380,[方1]0381,金子,金仔　kim-á,金　kim,金　kim,金　kim,金　kim,金　kim,金　kim,金　kim,金仔　kim-á,金仔　kim-á
 381,[方1]0382,鐵,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵　thih,鐵仔　thih-á
 382,[方1]0383,鋼,"白鐵仔　pe̍h-thih-á, 鋼　kǹg",白鐵仔　pe̍h-thih-á,"ステンレス　sir33-tian55-le51-sir11, 白鐵仔　pe̍h-thih-á","白鐵仔　pē-thih-á, 鋼　kǹg","白鐵仔　pe̍h-thih-á, 鋼　kǹg","ステンレス　sir33-tian55-le51-sir11, 白鐵仔　pe̍h-thih-á",鋼　kǹg,鋼　kǹg,鋼　kǹg,鋼　kǹg
 384,[方1]0385,生鐵,生　sinn,生　sinn,"生　sinn, 鑄生仔　tsù-sinn-á",生仔　senn-á,生仔　senn-á,生仔　senn-á,生　sinn,生　sinn,生　sinn,生仔　senn-á
-385,[方1]0386,煉鐵,{F5E9}　gàn,"{F5E9}　gàn, 焠　tshuì",{F5E9}鋼　gàn-kǹg,{F5E9}鋼　gàn-kǹg,{F5E9}水　gàn-tsuí,{F5E9}鋼　gàn-kǹg,{F5E9}鋼　gàn-kǹg,{F5E9}鋼　gàn-kǹg,{F5E9}鋼　gàn-kǹg,{F5E9}鋼　gàn-kǹg
+385,[方1]0386,煉鐵,　gàn,"　gàn, 焠　tshuì",鋼　gàn-kǹg,鋼　gàn-kǹg,水　gàn-tsuí,鋼　gàn-kǹg,鋼　gàn-kǹg,鋼　gàn-kǹg,鋼　gàn-kǹg,鋼　gàn-kǹg
 386,[方1]0387,破銅爛鐵,歹銅舊錫　pháinn-tâng-kū-siah,歹銅舊錫　pháinn-tâng-kū-siah,歹銅舊錫　pháinn-tâng-kū-siah,歹銅舊錫　phái-tâng-kū-siah,歹銅舊錫　phái-tâng-kū-siah,歹銅舊錫　pháinn-tâng-kū-siah,歹銅舊錫　phái-tâng-kū-siah,歹銅舊錫　phái-tâng-kū-siah,歹銅舊錫　pháinn-tâng-kū-siah,歹銅舊錫　pháinn-tâng-kū-siah 
 387,[方1]0388,煤油,番仔油　huan-á-iû,番仔油　huan-á-iû,臭油　tshàu-iû,臭油　tshàu-iû,"ガラ油　gat5-la55-iû, 臭油　tshàu-iû",臭油　tshàu-iû,塗油　thôo-iû,臭油　tshàu-iû,水油　tsuí-iû,番仔油　huan-á-iû
 388,[方1]0389,水泥,紅毛塗　âng-mn̂g-thôo,紅毛塗　âng-mn̂g-thôo,紅毛塗　âng-bûn-thôo,紅毛塗　â-bûn-thôo; âng-moo-thôo,紅毛塗　âng-bûn-thôo,紅毛塗　âng-mn̂g-thôo,紅毛塗　âng-môo-thôo,鐵塗　thih-thôo,紅毛塗　âng-mn̂g-thôo,紅毛塗　âng-moo-thôo
@@ -512,9 +512,9 @@
 531,[方1]0532,上吊,"吊脰　tiàu-tǎu, 縛粽　pa̍k-tsàng",吊脰　tiàu-tāu,吊脰　tiàu-tāu,"吊脰　tiàu-tāu, 開嚨喉　khui-liông-âu, 幌中秋　hàinn-tiong-tshiu",吊脰　tiàu-tāu,吊脰　tiàu-tāu,吊死　tiàu--sí,吊脰　tiàu-tāu,吊脰　tiàu-tāu,吊脰　tiàu-tāu
 532,[方1]0533,屁股,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshuinn,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshng,尻川　kha-tshng
 533,[方1]0534,肛門,尻川頭　kha-tshng-thâu,雨傘襇　hōo-suànn-kíng,"尻川頭　kha-tshng-thâu, 雨傘襇　hōo-suànn-kíng","尻川斗　kha-tshuinn-táu, 雨傘襇　hōo-suànn-kíng",雨傘襇　hōo-suànn-kíng,尻川頭　kha-tshng-thâu,尻川口　kha-tshng-kháu,糞口　pùn-kháu,"尻川口　kha-tshng-kháu, 尻川頭　kha-tshng-thâu",尻川頭　kha-tshng-thâu
-534,[方1]0535,陰莖,{F451}鳥　lǎn-tsiáu,{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu,"{F451}鳥　lān-tsiáu, 戛　khiat, 訶　honn",{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu,{F451}鳥　lān-tsiáu
-535,[方1]0536,陰囊,{F451}脬　lǎn-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha,{F451}脬　lān-pha
-536,[方1]0537,睪丸,{F451}核　lǎn-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核　lān-hu̍t,{F451}核仔　lān-hu̍t-á
+534,[方1]0535,陰莖,𡳞鳥　lǎn-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,"𡳞鳥　lān-tsiáu, 戛　khiat, 訶　honn",𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu,𡳞鳥　lān-tsiáu
+535,[方1]0536,陰囊,𡳞脬　lǎn-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha,𡳞脬　lān-pha
+536,[方1]0537,睪丸,𡳞核　lǎn-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核　lān-hu̍t,𡳞核仔　lān-hu̍t-á
 537,[方1]0538,拳頭,拳頭　kûn-thâu,拳頭拇　kûn-thâu-bú,拳頭拇　kûn-thâu-bó,"拳頭　kûn-thâu, 拳頭拇　kûn-thâu-bó",拳頭拇　kûn-thâu-bór,"拳頭　kûn-thâu, 拳頭拇　kûn-thâu-bú",拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭　kûn-thâu,拳頭拇　kûn-thâu-bó
 538,[方1]0539,手指,指頭仔　tsńg-thâu-á,指頭仔　tsńg-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á,指頭仔　tsńg-thâu--á,指頭仔　tsín-thâu--á,指頭仔　tsíng-thâu-á,指頭仔　tsíng-thâu-á
 539,[方1]0540,指甲,指甲　tsńg-kah,指甲　tsńg-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsíng-kah,指甲　tsńg-kah,指甲　tsín-kah,指甲　tsíng-kah,指甲　tsíng-kah
@@ -552,7 +552,7 @@
 574,[方1]0575,律師,"律師　lu̍t-sir, 辯護士　piǎn-hōo-sǐr",律師　lu̍t-sir,律師　lu̍t-su,"律師　lu̍t-su, 辯護士　piān-hōo-sū","律師　lu̍t-su, 辯護士　piān-hōo-sū","律師　lu̍t-su, 辯護士　piān-hōo-sū",狀師　tsn̄g-sir,律師　lu̍t-su,律師　lu̍t-sir,"律師　lu̍t-si, 辯護士　piān-hōo-sū"
 575,[方1]0576,妓女,趁食查某　thàn-tsia̍h-tsa-bóo,趁食查某　thàn-tsiā-tsa-bóo,"趁食查某　thàn-tsia̍h-tsa-bóo, 菜店查某　tshài-tiàm-tsa-bóo","菜店查某　tshài-tiàm-tsa-bóo, 趁食查某　thàn-tsiā-tsa-bóo","豆菜底的　tāu-tshài-té--ê, 菜店查某　tshài-tiàm-tsa-bóo, 趁食查某　thàn-tsia̍h-tsa-bóo, 貓仔　niau-á, 咧趁的　leh-thàn--ê","菜店查某　tshài-tiàm-tsa-bóo, 趁食查某　thàn-tsia̍h-tsa-bóo","趁食查某　thàn-tsia̍h-tsa-bóo, 相楗的　sann-kāinn--ê","趁食查某　thàn-tsia̍h-tsa-bóo, 菜店查某　tshài-tiàm-tsa-bóo, 菜店彪　tshài-tiàm-piu",趁食查某　thàn-tsia̍h-tsa-bóo,趁食查某　thàn-tsia̍h-tsa-bóo
 576,[方1]0577,和尚,和尚　hêr-siǔnn,和尚　hêr-siūnn,和尚　hê-siūnn,和尚　huê-siūnn,和尚　huê-siōnn,和尚　huê-siūnn,和尚　hêr-siūnn,和尚　hê-siūnn,和尚　hêr-siūnn; hê-siūnn,和尚　huê-siūnn
-577,[方1]0578,牽亡魂,"{F523}路　tshuǎ-lōo, 牽亡　khan-bông",牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,揣三姑　tshēr-sann-koo,"牽亡　khan-bông, 問尪姨　mn̄g-ang-î","牽紅姨　khan-âng-î, 牽亡　khan-bông",牽亡　khan-bông
+577,[方1]0578,牽亡魂,"𤆬路　tshuǎ-lōo, 牽亡　khan-bông",牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,牽亡　khan-bông,揣三姑　tshēr-sann-koo,"牽亡　khan-bông, 問尪姨　mn̄g-ang-î","牽紅姨　khan-âng-î, 牽亡　khan-bông",牽亡　khan-bông
 578,[方1]0579,乞丐,乞食　khit-tsia̍h,乞食　khit-tsiā,乞食　khit-tsia̍h,乞食　khit-tsiā,乞食　khit-tsia̍h,乞食　khit-tsia̍h,乞食　khit-tsia̍h,乞食　khit-tsia̍h,乞食　khit-tsia̍h,乞食　khit-tsia̍h
 579,[方1]0580,醫生,"先生　sian-sinn, 醫生　i-sing","先生　sian-sinn, 醫生　i-sing","先生　sian-sinn, 醫生　i-sing","先生　sin-senn, 醫生　i-sing","先生　sian-senn, 醫生　i-sing","先生　sian-sinn, 醫生　i-sing",先生　sian-sinn,"先生　sian-sinn, 醫生　i-sing","先生　sian-sinn, 醫生　i-sing ","先生　sin-senn, 醫生　i-sing "
 580,[方1]0581,護士,護士　hōo-sīr,護士　hōo-sīr,護士　hōo-sū,護士　hōo-sū,"看護婦　khàn-hōo-hū, 護士　hōo-sū","看護婦　khàn-hōo-hū, 護士　hōo-sū",護士　hōo-sīr,護士　hōo-sū,"護士　hōo-sīr, 看護婦　khàn-hōo-hū; khàn-lōo-hū","護士　hōo-sū, 看護婦　khàn-hōo-hū"
@@ -563,7 +563,7 @@
 585,[方1]0586,老板,頭家　thâu-ke,頭家　thâu-ke,"老板　láu-pán, 頭家　thâu-ke","老板　láu-pán, 頭家　thâu-ke","老板　láu-pán, 頭家　thâu-ke",頭家　thâu-ke,頭家　thâu--ke,頭家　thâu-ke,頭家　thâu-ke,頭家　thâu-ke
 586,[方1]0587,人數,跤數　kha-siàu,跤手　kha-tshiú,跤數　kha-siàu,跤數　kha-siàu,跤數　kha-siàu,跤數　kha-siàu,跤數　kha-siàu,跤數　kha-siàu,"跤手　kha-tshiú, 跤數　kha-siàu","跤手　kha-tshiú, 跤數　kha-siàu"
 587,[方1]0588,市場,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiônn,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiûnn,市場　tshī-tiûnn
-588,[方1]0589,雜貨店,"{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hèr-á-tiàm",{F506}仔店　kám-á-tiàm,"{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hè-á-tiàm","{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm","{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm",{F506}仔店　kám-á-tiàm,{F506}仔店　kám-á-tiàm,雜貨仔店　tsa̍p-hè-á-tiàm,"{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hèr-á-tiàm, 雜稅仔店　tsa̍p-sèr-á-tiàm","{F506}仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm"
+588,[方1]0589,雜貨店,"𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hèr-á-tiàm",𥴊仔店　kám-á-tiàm,"𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hè-á-tiàm","𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm","𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm",𥴊仔店　kám-á-tiàm,𥴊仔店　kám-á-tiàm,雜貨仔店　tsa̍p-hè-á-tiàm,"𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-hèr-á-tiàm, 雜稅仔店　tsa̍p-sèr-á-tiàm","𥴊仔店　kám-á-tiàm, 雜貨仔店　tsa̍p-huè-á-tiàm"
 589,[方1]0590,唱片,曲盤　khik-puânn,曲盤　khik-puânn,"曲盤　khik-puânn, 唱片　tshiùnn-phìnn","曲盤　khik-puânn, 唱片　tshiùnn-phìnn","曲盤　khik-puânn, 唱片　tshiòr-phìnn","曲盤　khik-puânn, 唱片　tshiùnn-phìnn",唱盤　tshiùnn-puânn,"唱片　tshiùnn-phìnn, 曲盤　khik-puânn","唱片　tshiùnn-phìnn, 曲盤　khik-puânn, レコード　le33-khoo51-too11","唱片　tshiùnn-phìnn, 曲盤　khik-puânn"
 590,[方1]0591,虧本,"了錢　liáu-tsînn, 蝕本　si̍h-pńg",蝕本　sī-pún,"了錢　liáu-tsînn, 蝕本　si̍h-pún","了錢　liáu-tsînn, 蝕本　sī-pún","了錢　liáu-tsînn, 蝕本　si̍h-pún","了錢　liáu-tsînn, 蝕本　si̍h-pún","了錢　liáu-tsînn, 蝕本　si̍h-pún, 了本　liáu-pún, 了去　liáu--khìr",了錢　liáu-tsînn,"了錢　liáu-tsînn, 蝕本　si̍h-pún ",了錢　liáu-tsînn 
 591,[方1]0592,存錢,儉錢　khiǎm-tsînn,"儉錢　khiām-tsînn, 儲蓄　thîr-thiok",儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn,儉錢　khiām-tsînn
@@ -593,7 +593,7 @@
 617,[方1]0619,母親(敘述),老母　lǎu-bú,老母　lāu-bú,老母　lāu-bú,老母　lāu-bó,老母　lāu-bór,老母　lāu-bór,"老母　lāu-bú, 俺母　án-bú",老母　lāu-bú,老母　lāu-bú,"老母　lāu-bú, 媽媽　ma-mah"
 619,[方1]0621,姊姊,阿姊　a-tsí,阿姊　a-tsí,阿姊　a-tsé,阿姊　a-tsí,阿姊　a-tsé,阿姊　a-tsí,俺姊　án-tsé,阿姊　a-tsé,阿姊　a-tsí,阿姊　a-tsé
 621,[方1]0623,兒子,"囝　kánn, 後生　hǎu-sinn","囝　kánn, 後生　hāu-sinn","囝　kiánn, 後生　hāu-sinn","囝　kiánn, 後生　hāu-senn","囝　kiánn, 後生　hāu-senn","囝　kiánn, 後生　hāu-senn","後生　hāu-sinn, 囝　kiánn","後生　hāu-sinn, 囝　kiánn","後生　hāu-sinn, 囝　kiánn","後生　hāu-senn, 後的　hāu--ê, 囝　kiánn　"
-622,[方1]0624,男孩子,"查埔{F4F3}仔　tsa-poo-kán-á, 查埔囡仔　tsa-poo-gín-á; ta-poo-gín-á",查埔囡仔　ta-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín--á,查埔囡仔　tsa-poo-gín--á,查埔囡仔　ta-poo-gín-á,查埔囡仔　ta-poo-gín-á
+622,[方1]0624,男孩子,"查埔𡢃仔　tsa-poo-kán-á, 查埔囡仔　tsa-poo-gín-á; ta-poo-gín-á",查埔囡仔　ta-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín-á,查埔囡仔　tsa-poo-gín--á,查埔囡仔　tsa-poo-gín--á,查埔囡仔　ta-poo-gín-á,查埔囡仔　ta-poo-gín-á
 623,[方1]0625,么兒、么子,屘仔囝　ban-á-kánn,屘仔囝　ban-á-kiánn,屘仔囝　ban-á-kiánn,屘仔囝　ban-á-kiánn,細漢囝　sè-hàn-kiánn,尾仔囝　bué-á-kiánn,"尾囝　bér-kiánn, 捏尾仔囝　liap-bér-á-kiánn, 煞尾囝　suah-bér-kiánn, 煞尾仔囝　suah-bér-á-kiánn","屘囝　ban-kiánn, 晚囝　mńg-kiánn",屘囝　ban-kiánn,屘仔囝　ban-á-kiánn
 624,[方1]0626,小太太,細姨　suè-î,細姨　serè-î,細姨　suè-î,細姨　sè-î,細姨　sè-î,細姨　sè-î,細姨　suè-î,細姨　suè-î,細姨　suè-î,細姨　sè-î
 625,[方1]0627,伯公的太太,姆婆　ḿ-pô,姆婆　ḿ-pô,姆婆　ḿ-pô,姆婆　ḿ-pô,姆婆　ḿ-pôr,姆婆　ḿ-pôr,姆婆　ḿ-pô,姆婆　ḿ-pô,姆婆　ḿ-pô,姆婆　ḿ-pô
@@ -619,9 +619,9 @@
 645,[方1]0647,生小孩,抾囡仔　khioh-gín-á,"生囡仔　sinn-gín-á, 抾囡仔　khioh-gín-á","生囡仔　sinn-gín-á, 抾囡仔　khioh-gín-á","生囝　senn-kiánn, 抾囡仔　khioh-gín-á","生囡仔　senn-gín-á, 抾囡仔　khiorh-gín-á","生囡仔　senn-gín-á, 抾囡仔　khiorh-gín-á",生囡仔　sinn-gín--á,"生囡仔　sinn-gín--á, 抾囡仔　khioh-gín--á","生囡仔　sinn-gín-á, 抾囡仔　khioh-gín-á(產婆語)","生囡仔　senn-gín-á, 抾囡仔　khioh-gín-á"
 646,[方1]0648,滿月,滿月　muá-ge̍rh,滿月　muá-gēr,滿月　muá-ge̍h,滿月　muá-guē,滿月　muá-gue̍h,滿月　muá-gue̍h,滿月　muá-ge̍rh,滿月　muá-ge̍h,滿月　muá-ge̍rh; muá-ge̍h,滿月　muá-gue̍h
 647,[方1]0649,做旬,做旬　tsò-sûn,"做七　tsò-tshit, 做旬　tsò-sûn",做旬　tsò-sûn,做旬　tsò-sûn,做旬　tsòr-sûn,做旬　tsòr-sûn,做七日　tsuè-tshit-li̍t ,做七　tsuè-tshit,做七　tsuè-tshit,做七　tsò-tshit
-648,[方1]0650,婢女,查某{F4F3}　tsa̋u-kán,查某{F4F3}仔　tsa-bóo-kán-á,查某{F4F3}　tsa̋u-kán,查某{F4F3}　tsa-bóo-kán,查某{F4F3}仔　tsőo-kán-á,查某{F4F3}　tsőo-kán,娘{F4F3}　niû-kán,查某{F4F3}　tsa-bóo-kán,查某{F4F3}仔　tsa-bóo-kán-á,查某{F4F3}仔　tsa-bóo-kán-á
+648,[方1]0650,婢女,查某𡢃　tsa̋u-kán,查某𡢃仔　tsa-bóo-kán-á,查某𡢃　tsa̋u-kán,查某𡢃　tsa-bóo-kán,查某𡢃仔　tsőo-kán-á,查某𡢃　tsőo-kán,娘𡢃　niû-kán,查某𡢃　tsa-bóo-kán,查某𡢃仔　tsa-bóo-kán-á,查某𡢃仔　tsa-bóo-kán-á
 649,[方1]0651,老姑婆,老姑婆　lǎu-koo-pô,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pôr,老姑婆　lāu-koo-pôr,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pô,老姑婆　lāu-koo-pô
-650,[方1]0652,單身漢,"十一哥　tsa̍p-it-ko, 羅漢跤仔　lô-hàn-kha-á","孤{F439}的　koo-khu̍t--ê, 羅漢跤　lô-hàn-kha","十一哥　tsa̍p-it-ko, 羅漢跤仔　lô-hàn-kha-á","獨身仔　to̍k-sin-á, 羅漢跤仔　lô-hàn-kha-á","十一哥　tsa̍p-it-kor, 獨身仔　to̍k-sin-á, 羅漢跤仔　lôr-hàn-kha-á","十一哥　tsa̍p-it-kor, 獨身仔　to̍k-sin-á, 羅漢跤仔　lôr-hàn-kha-á","十一哥　tsa̍p-it-ko, 十一叔　tsa̍p-it-tsik, 孤身　koo-sin","羅漢跤　lô-hàn-kha, 十一哥　tsa̍p-it-ko",羅漢跤　lô-hàn-kha,"羅漢跤仔　lô-hàn-kha-á, 十一哥　tsa̍p-it-ko"
+650,[方1]0652,單身漢,"十一哥　tsa̍p-it-ko, 羅漢跤仔　lô-hàn-kha-á","孤𣮈的　koo-khu̍t--ê, 羅漢跤　lô-hàn-kha","十一哥　tsa̍p-it-ko, 羅漢跤仔　lô-hàn-kha-á","獨身仔　to̍k-sin-á, 羅漢跤仔　lô-hàn-kha-á","十一哥　tsa̍p-it-kor, 獨身仔　to̍k-sin-á, 羅漢跤仔　lôr-hàn-kha-á","十一哥　tsa̍p-it-kor, 獨身仔　to̍k-sin-á, 羅漢跤仔　lôr-hàn-kha-á","十一哥　tsa̍p-it-ko, 十一叔　tsa̍p-it-tsik, 孤身　koo-sin","羅漢跤　lô-hàn-kha, 十一哥　tsa̍p-it-ko",羅漢跤　lô-hàn-kha,"羅漢跤仔　lô-hàn-kha-á, 十一哥　tsa̍p-it-ko"
 651,[方1]0653,看風水的人,風水師　hong-suí-sai,"地理仙　tē-lí-sian, 牽羅經　khan-lô-kinn","地理仙　tē-lí-sian, 風水仙　hong-tsuí-sian","風水仙　hong-tsuí-sian, 牽羅經　khan-lô-kenn","地理師　tē-lí-su, 風水仙　hong-tsuí-sian",地理師　tē-lí-su,風水仙　hong-tsuí-sian,風水仙　hong-tsuí-sian,風水仙　hong-suí-sian,"風水仙　hong-suí-sian, 仙的　sian--ê"
 652,[方1]0654,尼姑,尼姑　nî-koo; lî-koo,尼姑　nî-koo,尼姑　nî-koo; luî-koo,"尼姑　nî-koo, 菜姑　tshài-koo","尼姑　nî-koo; lî-koo, 菜姑　tshài-koo","尼姑　lî-koo, 菜姑　tshài-koo",尼姑　lî-koo,尼姑　luî-koo,尼姑　lî-koo,尼姑　nî-koo
 653,[方1]0655,女醫生,先生媽　sian-sinn-má,先生媽　sian-sinn-má,先生媽　sian-sinn-má,先生媽　sin-senn-má,先生媽　sian-senn-má,先生媽　sian-senn-má,先生媽　sian-sinn-má,先生媽　sian-sinn-má,先生媽　sian-sinn-má,先生媽　sin-senn-má
@@ -636,8 +636,8 @@
 662,[方1]0664,生病,破病　phuà-pǐnn,破病　phuà-pīnn,破病　phuà-pīnn,"破病　phuà-pēnn, 艱苦　kan-khóo","破病　phuà-pēnn, 艱苦　kan-khóo","破病　phuà-pēnn, 艱苦　kan-khóo",破病　phuà-pīnn,破病　phuà-pīnn,破病　phuà-pīnn,"破病　phuà-pēnn, 艱苦　kan-khóo"
 663,[方1]0665,受寒,"寒著　kuânn--tio̍h, 感著　kám--tio̍h",冷著　líng--tio̍h,寒著　kuânn--tio̍h,"寒著　kuânn--tio̍h, 感著　kám--tio̍h","寒著　kuânn--tio̍rh, 感著　kám--tio̍rh","寒著　kuânn--tio̍h, 感著　kám--tio̍h",寒著　kuânn--tio̍h,寒著　kuânn--tio̍h,寒著　kuânn--tio̍h,"寒著　kuânn--tio̍h, 感著　kám--tio̍h"
 664,[方1]0666,中暑,"著痧　tio̍h-sua, 熱著　lua̍h--tio̍h","翕熱　hip-juā, 著痧　tiō-sua","著痧　tio̍h-sua, 熱著　lua̍h--tio̍h","著痧　tio̍h-sua, 熱著　juā--tio̍h","著痧　tio̍rh-sua, 熱著　jua̍h--tio̍rh","著痧　tio̍rh-sua, 熱著　jua̍h--tio̍rh","熱著　lua̍h--tio̍h, 著痧　tio̍h-sua","熱著　jua̍h--tio̍h, 著痧　tio̍h-sua","熱著　lua̍h--tio̍h, 翕著熱　hip-tio̍h-lua̍h","熱著　jua̍h--tio̍h, 著痧　tio̍h-sua"
-665,[方1]0668,痲瘋病,癩{F5E7}　thái-ko,癩{F5E7}　thái-ko,癩{F5E7}　thái-ko,癩{F5E7}　thái-ko,癩{F5E7}　thái-kor,癩{F5E7}　thái-kor,"癩{F5E7}　thái-ko, 痲瘋　bâ-huang",痲瘋症　mâ-hong-tsìng,癩{F5E7}病　thái-ko-pīnn,癩{F5E7}病　thái-ko-pēnn
-666,[方1]0669,性病,"八腳　pat-kiok, 生檨仔　sinn-suǎinn-á, 梅毒　muî-to̍k",生檨仔　sinn-suāinn-á,"生檨仔　sinn-suāinn-á, 梅毒　muî-to̍k","生檨仔　senn-suāinn-á, 梅毒　muê-to̍k","生檨仔　senn-suāinn-á, 梅毒　muâi-to̍k, 菜花　tshài-hue","生檨仔　senn-suāinn-á, 梅毒　muâi-to̍k","歹囝症　phái-kiánn-tsìng, 垃圾病　lah-sap-pīnn, 垃儳風　lâ-sâm-huang, 梅毒　muî-to̍k, 著毒　tio̍h-to̍k, 生瘡　sinn-tshng　 ","著銃　tio̍h-tshìng, 著毒　tio̍h-to̍k, 生瘡　sinn-tshng",淋病　lîm-pīnn　,"生檨仔　senn-suāinn-á, 癩{F5E7}病　thái-ko-pēnn　"
+665,[方1]0668,痲瘋病,癩　thái-ko,癩　thái-ko,癩　thái-ko,癩　thái-ko,癩　thái-kor,癩　thái-kor,"癩　thái-ko, 痲瘋　bâ-huang",痲瘋症　mâ-hong-tsìng,癩病　thái-ko-pīnn,癩病　thái-ko-pēnn
+666,[方1]0669,性病,"八腳　pat-kiok, 生檨仔　sinn-suǎinn-á, 梅毒　muî-to̍k",生檨仔　sinn-suāinn-á,"生檨仔　sinn-suāinn-á, 梅毒　muî-to̍k","生檨仔　senn-suāinn-á, 梅毒　muê-to̍k","生檨仔　senn-suāinn-á, 梅毒　muâi-to̍k, 菜花　tshài-hue","生檨仔　senn-suāinn-á, 梅毒　muâi-to̍k","歹囝症　phái-kiánn-tsìng, 垃圾病　lah-sap-pīnn, 垃儳風　lâ-sâm-huang, 梅毒　muî-to̍k, 著毒　tio̍h-to̍k, 生瘡　sinn-tshng　 ","著銃　tio̍h-tshìng, 著毒　tio̍h-to̍k, 生瘡　sinn-tshng",淋病　lîm-pīnn　,"生檨仔　senn-suāinn-á, 癩病　thái-ko-pēnn　"
 667,[方1]0670,夜盲症,雞仔目　kue-á-ba̍k,雞仔目　kere-á-ba̍k,雞仔目　kue-á-ba̍k,雞仔目　ke-á-ba̍k,雞仔目　ke-á-ba̍k,雞仔目　ke-á-ba̍k,雞目　kue-ba̍k,雞目　kue-ba̍k,雞目　kue-ba̍k,雞仔目　ke-á-ba̍k
 668,[方1]0671,瞎了,青盲　tshinn-mî,青盲　tshinn-mî,青盲　tshinn-mî,青盲　tshenn-mê,青盲　tshenn-mê,青盲　tshenn-mê,青盲　tshinn-mî,青盲　tshinn-mî,青盲　tshinn-mî,青盲　tshenn-mê
 669,[方1]0672,腮腺炎,豬頭爿　tir-thâu-pîng,泛豬頭皮　hàm-tir-thâu-phêr,豬頭皮　tu-thâu-phê,豬頭肥　ti-thâu-puî,"痻愛　in-ài, 豬頭癀　ti-thâu-hông, 豬頭爿　ti-thâu-pîng",豬頭肥　ti-thâu-puî,痻愛　un-ài,痻愛　hun-ài,豬頭皮　tir-thâu-phêr; ti-thâu-phê,豬頭皮　ti-thâu-phuê
@@ -645,7 +645,7 @@
 671,[方1]0674,中風,斷頭腦筋　tňg-thâu-nóo-kun,中風　tiòng-hong,中風　tiòng-hong,"中風　tiòng-hong, 斷腦筋　tuīnn-náu-kin","中風　tiòng-hong, 斷腦筋　tn̄g-náu-kin","中風　tiòng-hong, 斷腦筋　tn̄g-náu-kin",腦筋斷　náu-kun-tn̄g,斷腦筋　tn̄g-náu-kun,"斷腦筋　tn̄g-náu-kun, 中風　tiòng-hong","斷腦筋　tn̄g-náu-kin, 中風　tiòng-hong"
 672,[方1]0675,生瘡,生疥　sinn-kuè,生疥　sinn-kerè,生疥　sinn-kuè,生疥　senn-kè,生疥　senn-kè,生疥　senn-kè,生疥　sinn-kuè,生疥　sinn-kuè,生疥　sinn-kuè,生疥　senn-kè
 673,[方1]0676,生瘡,生粒仔　sinn-lia̍p-á,生粒仔　sinn-lia̍p-á,生粒仔　sinn-lia̍p-á,生粒仔　senn-lia̍p-á,生粒仔　senn-lia̍p-á,生粒仔　senn-lia̍p-á,生粒　sinn-lia̍p,生粒　sinn-lia̍p,生粒仔　sinn-lia̍p-á,生粒仔　senn-lia̍p-á
-674,[方1]0677,魚鱗瘡,魚鱗{F5A9}　hîr-lân-tshe̍h,魚鱗{F5A9}　hîr-lân-tserè,魚鱗{F5A9}仔　hû-lân-tshè-á,魚鱗{F5A9}　hî-lân-tshuì,魚鱗{F5A9}仔　hî-lân-tsheh-á,魚鱗{F5A9}仔　hî-lân-tshè-á,{F5A9}仔　tsèr--á,魚鱗{F5A9}　hû-lân-tsuè,魚鱗{F5A9}仔　hîr-lân-tsèr-á; hî-lân-tsè-á,魚鱗{F5A9}　hî-lân-tsuè
+674,[方1]0677,魚鱗瘡,魚鱗𤺅　hîr-lân-tshe̍h,魚鱗𤺅　hîr-lân-tserè,魚鱗𤺅仔　hû-lân-tshè-á,魚鱗𤺅　hî-lân-tshuì,魚鱗𤺅仔　hî-lân-tsheh-á,魚鱗𤺅仔　hî-lân-tshè-á,𤺅仔　tsèr--á,魚鱗𤺅　hû-lân-tsuè,魚鱗𤺅仔　hîr-lân-tsèr-á; hî-lân-tsè-á,魚鱗𤺅　hî-lân-tsuè
 675,[方1]0678,枴杖,枴仔　kuái-á,枴仔　kuái-á,枴仔　kuáinn-á,枴仔　kuái-á,枴仔　kuáinn-á,枴仔　kuái-á,"洞葛　tōng-kat, 枴仔　kuái-á",枴仔　kuái-á,枴仔　kuái-á,枴仔　kuáinn-á
 676,[方1]0679,泥磚,塗墼　thôo-kak,塗墼　thôo-kat,塗墼　thôo-kak,塗墼　thôo-kak,塗墼　thôo-kat,塗墼　thôo-kak,塗墼　thôo-kat,塗墼　thôo-kat,塗墼　thôo-kak,塗墼　thôo-kat
 677,[方1]0680,父親 (敘述),老爸　lǎu-pě,"老爸　lāu-pē, 阿爸　a-pa",老爸　lāu-pē,老爸　lāu-pē,"老爸　lāu-pē, 俺爸　án-pē",老爸　lāu-pē,俺爹　án-tia,老爸　lāu-pē,"老爸　lāu-pē, 阿爹　a-tia, 爸爸　pa-pa","老爸　lāu-pē, 爸爸　pa-pah"
@@ -662,12 +662,12 @@
 688,[方1]0691,說話不清楚,"喑噁　ìnn-ònn, 臭奶呆　tshàu-ling-tai","喑噁　ìnn-ònn, 臭奶呆　tshàu-lin-tai","喑噁　ìnn-ònn, 臭奶呆　tshàu-ni-tai, 鬱口　ut-káu","喑噁　ìnn-ònn, 臭奶呆　tshàu-ling-tai","喑噁　ìnn-ònn, 臭奶呆　tshàu-ni-tai","喑噁　ìnn-ònn, 臭奶呆　tshàu-ling-tai",哦口　ónn-káu,鬱口　ut-káu,喑噁　ìnn-ònn,喑噁　ìnn-ònn
 689,[方1]0692,無名指,暫無資料　,愛媠　ài-suí,暫無資料　,暫無資料　,暫無資料　,尾二指　bué-jī-tsáinn,佬仔　láu--á,暫無資料　,暫無資料　,暫無資料　
 690,[方1]0693,挾菜,夾　gueh,夾　gereh,夾　ngeh,夾　ngeh,夾　ngeh,夾　ngeh,夾　ngueh,夾菜　ngueh-tshài ,夾菜　ngueh-tshài,夾菜　ngeh-tshài
-691,[方1]0694,舀湯,"{F595}　khat, 舀　ió","{F595}　khat, 舀　ió","{F595}　khat, 舀　iúnn","{F595}　khat, 舀　iúnn","{F595}　khat, 舀　iónn","{F595}　khat, 舀　iúnn","舀　iúnn, {F595}　khat","舀　iúnn, {F595}　khat","舀　ió, {F595}　khat","舀　iúnn, {F595}　khat"
+691,[方1]0694,舀湯,"𣁳　khat, 舀　ió","𣁳　khat, 舀　ió","𣁳　khat, 舀　iúnn","𣁳　khat, 舀　iúnn","𣁳　khat, 舀　iónn","𣁳　khat, 舀　iúnn","舀　iúnn, 𣁳　khat","舀　iúnn, 𣁳　khat","舀　ió, 𣁳　khat","舀　iúnn, 𣁳　khat"
 692,[方1]0695,使眼色,使目尾　sái-ba̍k-bér,使目尾　sái-ba̍k-bér,使目尾　sái-ba̍k-bé,捽目尾　sut-ba̍k-bué,使目尾　sái-ba̍k-bué,使目箭　sái-ba̍k-tsìnn,使目尾　sái-ba̍k-bé,使目尾　sái-ba̍k-bé,使目尾　sái-ba̍k-bér,捽目尾　sut-ba̍k-bué 
 693,[方1]0696,瞪,睨　gûn,"偓　òo, 睨　gîrn",睨　gîn,睨　gîn,睨　gîn,睨　gîn,睨　gîn,睨　gîn,睨　gîn,睨　gîn
 694,[方1]0697,吃,"囫　hut, 孝孤　hàu-koo, 食　tsia̍h, 嗄　sah","囫　hut, 孝孤　hàu-koo, 食　tsiā","囫　hut, 孝孤　hàu-koo, 食　tsia̍h","囫　hut, 孝孤　hàu-koo, 食　tsiā, 推　thui, 嗄　sah; sà","囫　hut, 孝孤　hàu-koo, 食　tsia̍h, 推　thui, 嗄　sà","囫　hut, 孝孤　hàu-koo, 食　tsia̍h, 推　thui, 嗄　sà","食　tsia̍h, 囫　hut, 嗄　sah","食　tsia̍h, 囫　hut, 嗄　sà, 推　thui, 孝孤　hàu-koo","食　tsia̍h, 囫　hut, 推　thui, 噼　piah","食　tsia̍h, 囫　hut, 推　thui"
 695,[方1]0698,喝,啉　lim,啉　lim,啉　lim,"呵茶　ha-tê, 食茶　tsia̍h-tê, 啉　lim","呵茶　ha-tê, 食茶　tsia̍h-tê, 啉　lim, 灌　kuàn",啉　lim,啉　lim,"食　tsia̍h, 啉　lim","啉　lim, 哈　hah",啉　lim
-696,[方1]0699,嘔,{E35A}　bǔ,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū,{E35A}　bū
+696,[方1]0699,嘔,　bǔ,　bū,　bū,　bū,　bū,　bū,　bū,　bū,　bū,　bū
 697,[方1]0700,咬,咬　kǎ,咬　kā,咬　kā,咬　kā,咬　kā,咬　kā,咬　kā,咬　kā,咬　kā,咬　kā
 698,[方1]0701,咀嚼,哺　pǒo,"哺　pōo, 嗕　ngauh","哺　pōo, 嗕　nauh",哺　pōo,哺　pōo,哺　pōo,哺　pōo,哺　pōo,哺　pōo,哺　pōo
 699,[方1]0702,伸舌頭,"吮　tsňg, 舐　tsǐnn, 吶舌　nǎ-tsi̍h",舐　tsī,舐　tsīnn,"吮　tsuīnn, 舐　tsīnn, 吶喙舌　nā-tshuì-tsī","吮　tsn̄g, 舐　tsīnn, 吶喙舌　nā-tshuì-tsi̍h","舐　tsīnn, 吶　nā",舐　tsī,舐　tsīnn,舐　tsīnn,舐　tsīnn
@@ -712,9 +712,9 @@
 745,[方1]0748,擦桌子,"拭　tshit, 揉　liû","拭　tshit, 揉　jiû","拭　tshit, 揉　liû","拭　tshit, 揉　jiû","拭　tshit, 揉　jiû","拭　tshit, 揉　jiû","拭　tshit, 揉　liû","拭　tshit, 揉　jiû","拭　tshit, 揉　liû","拭　tshit, 揉　jiû"
 746,[方1]0749,汲水,上水　tshiǔnn-tsuí,上水　tshiūnn-tsuí,上水　tshiūnn-tsuí,上水　tshiūnn-tsuí,上水　tshiōnn-tsuí,上水　tshiūnn-tsuí,上水　tshiū-tsuí,上水　tshiūnn-tsuí,上水　tshiūnn-tsuí,上水　tshiūnn-tsuí
 748,[方1]0751,拳打,"舂　tsing, 揍　bok, 搥　tuî",舂　tsing,舂　tsing,舂　tsing,舂　tsing,舂　tsing,"舂　tsing, 甍　bòng, 搥　tuî","舂　tsing, 揍　bok, 摁　hmh　",舂　tsing ,舂　tsing 
-749,[方1]0752,切,切　tshiat,切　tshiat,"切　tshiat, 截　tsue̍h","{F398}　tsuî, 切　tshiat","{F398}　tsuî, 切　tshiat",切　tshiat,"切　tshiat, 截　tsue̍h","切　tshiat, 截　tsue̍h","切　tshiat, 截　tsue̍h",切　tshiat
+749,[方1]0752,切,切　tshiat,切　tshiat,"切　tshiat, 截　tsue̍h","𠞩　tsuî, 切　tshiat","𠞩　tsuî, 切　tshiat",切　tshiat,"切　tshiat, 截　tsue̍h","切　tshiat, 截　tsue̍h","切　tshiat, 截　tsue̍h",切　tshiat
 750,[方1]0753,戳,揬　tu̍h,揬　tū,揬　tu̍h,揬　tuh; tū,揬　tu̍h,揬　tu̍h,"揬　tu̍h, 攕　tshiám",揬　tu̍h ,攕　tshiám,鑿　tsha̍k
-751,[方1]0754,用棍子打,"{F5D0}　bu̍t, 摁　hmh, 摃　kòng, 撼　hám","摁　hmh, 摃　kòng, 撼　hám","㧌　mau, {F5D0}　but, 摁　hmh, 摃　kòng, 撼　hám","{F5D0}　but, 摁　hmh, 摃　kòng, 撼　hám","㧌　mau, {F5D0}　but, 摁　hmh, 摃　kòng, 撼　hám","㧌　mau, {F5D0}　but, 摁　hmh, 摃　kòng, 撼　hám","摃　kòng, 㨪　hainnh, 撼　hám, 摁　hmh, 㧌　mau","摃　kòng, 撼　hám, 摁　hmh, 㧌　mau","摃　kòng, 甍　bòng",摃　kòng
+751,[方1]0754,用棍子打,"𢪱　bu̍t, 摁　hmh, 摃　kòng, 撼　hám","摁　hmh, 摃　kòng, 撼　hám","㧌　mau, 𢪱　but, 摁　hmh, 摃　kòng, 撼　hám","𢪱　but, 摁　hmh, 摃　kòng, 撼　hám","㧌　mau, 𢪱　but, 摁　hmh, 摃　kòng, 撼　hám","㧌　mau, 𢪱　but, 摁　hmh, 摃　kòng, 撼　hám","摃　kòng, 㨪　hainnh, 撼　hám, 摁　hmh, 㧌　mau","摃　kòng, 撼　hám, 摁　hmh, 㧌　mau","摃　kòng, 甍　bòng",摃　kòng
 752,[方1]0755,撬,撬　kiǎu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu,撬　kiāu
 753,[方1]0756,舉,"夯　giâ, 攑　gia̍h",夯　giâ,夯　giâ,夯　giâ,夯　giâ,夯　giâ,夯　kiâ,攑　gia̍h,攑　gia̍h,夯　giâ
 754,[方1]0757,剪,鉸　ka,"剪　tsián, 鉸　ka",鉸　ka,"剪　tsián, 鉸　ka","剪　tsián, 鉸　ka","剪　tsián, 鉸　ka","鉸　ka, 剪　tsián, 攆　lián",鉸　ka　,"鉸　ka, 剪　tsián",鉸　ka
@@ -735,7 +735,7 @@
 772,[方1]0775,搞牌子,奕　ǐ,奕　ī,奕　ī,奕　ī,奕　ī,奕　ī,奕　ī,奕　ī,"跋　pua̍h, 奕　ī",奕　ī
 774,[方1]0777,孵蛋,孵卵　pǔ-nňg,孵卵　pū-nn̄g,孵卵　pū-nn̄g,孵卵　pū-nuī,孵卵　pū-nn̄g,孵卵　pū-nn̄g,孵卵　pū-nn̄g,孵卵　pū-nn̄g,孵卵　pū-nn̄g,孵卵　pū-nn̄g
 776,[方1]0779,認識,捌　pat,捌　pat,捌　pat,捌　bat,捌　bat,捌　bat,捌　pat,捌　pat,捌　pat,捌　bat
-777,[方1]0780,拍馬屁,"扶{F451}脬　phôo-lǎn-pha, 扶挺　phôo-thánn",扶{F451}脬　phôo-lān-pha,"扶{F451}脬　phôo-lān-pha, 扶挺　phôo-thánn","扶{F451}脬　phôo-lān-pha, 扶挺　phôo-thánn","扶{F451}脬　phôo-lān-pha, 扶挺　phôo-thánn","扶{F451}脬　phôo-lān-pha, 扶挺　phôo-thánn",扶{F451}脬　phôo-lān-pha,扶{F451}脬　phôo-lān-pha,扶{F451}脬　phôo-lān-pha,"扶{F451}脬　phôo-lān-pha, 扶尻川　phôo-kha-tshng"
+777,[方1]0780,拍馬屁,"扶𡳞脬　phôo-lǎn-pha, 扶挺　phôo-thánn",扶𡳞脬　phôo-lān-pha,"扶𡳞脬　phôo-lān-pha, 扶挺　phôo-thánn","扶𡳞脬　phôo-lān-pha, 扶挺　phôo-thánn","扶𡳞脬　phôo-lān-pha, 扶挺　phôo-thánn","扶𡳞脬　phôo-lān-pha, 扶挺　phôo-thánn",扶𡳞脬　phôo-lān-pha,扶𡳞脬　phôo-lān-pha,扶𡳞脬　phôo-lān-pha,"扶𡳞脬　phôo-lān-pha, 扶尻川　phôo-kha-tshng"
 778,[方1]0781,插秧,佈田　pòo-tshân,佈田　pòo-tshân,佈田　pòo-tshân,佈田　pòo-tshân,佈田　pòo-tshân,佈田　pòo-tshân,"佈稻　pòo-tiū, 插秧　tshah-ng",暫無資料　,佈田　pòo-tshân ,插秧仔　tshah-ng-á
 779,[方1]0782,澆水,沃水　ak-tsuí,"沃水　ak-tsuí, 蔭水　ìm-tsuí",沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí,沃水　ak-tsuí
 780,[方1]0783,買米,糴米　tia̍h-bí,糴米　tiā-bí,糴米　tia̍k-bí,糴米　tiā-bí,糴米　tia̍h-bí,糴米　tia̍h-bí,糴米　tia̍h-bí,糴米　tia̍h-bí,糴米　tia̍h-bí,糴米　tia̍h-bí
@@ -746,16 +746,16 @@
 788,[方1]0791,慢,慢　bǎn,慢　bān,慢　bān,慢　bān,慢　bān,慢　bān,慢　bān,慢　bān,慢　bān,慢　bān
 789,[方1]0792,大,大個　tuǎ-kâinn,"大　tuā, 奒　hai","大　tuā, 奒　hai","大　tuā, 奒　hai","大　tuā, 奒　hai","大　tuā, 奒　hai",大　tuā,大　tuā,大　tuā,大　tuā
 790,[方1]0793,鬆,"冗　lǐng, 鬆　sang",冗　līng,冗　līng,"冗　liōng, 鬆　sang","冗　līng, 鬆　sang",冗　līng,鬆　sang,鬆　sang,"鬆　sang, 冗　līng","鬆　sang, 冗　līng"
-791,[方1]0794,硬,"{F5C9}　tǐng, 硬　ngǐ","{F5C9}　tīng, 硬　ngī","{F5C9}　tīng, 硬　ngī","{F5C9}　tīng, 硬　ngē","{F5C9}　tīng, 硬　ngē","{F5C9}　tīng, 硬　ngē",{F5C9}　tāinn,{F5C9}　tān,{F5C9}　tīng,{F5C9}　tīng
+791,[方1]0794,硬,"𠕇　tǐng, 硬　ngǐ","𠕇　tīng, 硬　ngī","𠕇　tīng, 硬　ngī","𠕇　tīng, 硬　ngē","𠕇　tīng, 硬　ngē","𠕇　tīng, 硬　ngē",𠕇　tāinn,𠕇　tān,𠕇　tīng,𠕇　tīng
 793,[方1]0796,舊,舊　kǔ,舊　kū,舊　kū,舊　kū,舊　kū,舊　kū,舊　kū,舊　kū,舊　kū,舊　kū
 795,[方1]0798,深,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim,深　tshim
 796,[方1]0799,滿,"滇　tǐnn, 滿　muá","滇　tīnn, 滿　muá","滇　tīnn, 滿　muá","滇　tīnn, 滿　buán","滇　tīnn, 滿　buán","滇　tīnn, 滿　buán",滇　tīnn,滇　tīnn,滇　tīnn,滇　tīnn
 798,[方1]0801,重,重　tǎng,重　tāng,重　tāng,重　tāng,重　tāng,重　tāng,重　tāng,重　tāng,重　tāng,重　tāng
-801,[方1]0804,骯髒,"垃圾　lah-sap; lap-sap, 癩{F5E7}爛癆　thái-ko-nuǎ-lô, 驚人　kiann-lâng","垃圾　lah-sap, 腌臢　a-tsa, 癩{F5E7}　thái-ko, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 癩{F5E7}爛癆　thái-ko-nuā-lô, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩{F5E7}爛癆　thái-ko-nuā-lô, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩{F5E7}　thái-kor, 癩{F5E7}爛癆　thái-kor-nuā-lôr, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩{F5E7}　thái-kor, 驚人　kiann-lâng","垃圾　lap-sap, 腌臢　a-tsam, 驚人　kiann-lâng, 垃儳　lâ-sâm, 癩{F5E7}　thái-ko","垃圾　lah-sap, 腌臢　a-tsa, 驚人　kiann-lâng, 垃儳　lâ-sâm, 癩{F5E7}　thái-ko","垃圾　lap-sap, 腌臢　am-tsam, 癩{F5E7}　thái-ko",垃圾　lap-sap 
+801,[方1]0804,骯髒,"垃圾　lah-sap; lap-sap, 癩爛癆　thái-ko-nuǎ-lô, 驚人　kiann-lâng","垃圾　lah-sap, 腌臢　a-tsa, 癩　thái-ko, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 癩爛癆　thái-ko-nuā-lô, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩爛癆　thái-ko-nuā-lô, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩　thái-kor, 癩爛癆　thái-kor-nuā-lôr, 驚人　kiann-lâng","垃圾　lah-sap, 垃儳　lâ-sâm, 腌臢　a-tsa, 癩　thái-kor, 驚人　kiann-lâng","垃圾　lap-sap, 腌臢　a-tsam, 驚人　kiann-lâng, 垃儳　lâ-sâm, 癩　thái-ko","垃圾　lah-sap, 腌臢　a-tsa, 驚人　kiann-lâng, 垃儳　lâ-sâm, 癩　thái-ko","垃圾　lap-sap, 腌臢　am-tsam, 癩　thái-ko",垃圾　lap-sap 
 803,[方1]0806,高,"躼　lò; liò, 懸　kuân","躼　lò, 懸　kuân","躼　lò, 懸　kuâinn","躼　lò, 懸　kuân","躼　lòr, 懸　kuân","躼　lòr, 懸　kuân",懸　kuâinn,懸　kuân,懸　kuân,懸　kuân
 804,[方1]0807,年紀大,老　lǎu,老　lāu,老　lāu,老　lāu,老　lāu,老　lāu,老　lāu,老　lāu,"老　lāu, 濟歲　tsuē hè",老　lāu
 805,[方1]0808,吝嗇,"虯　khiû, 凍霜　tàng-sng, 硞　kho̍k, 鹹澀　kiâm-siap","牛螕　gû-pi, 苛頭　khô-thâu, 凍霜　tàng-sng, 鹹澀　kiâm-siap","牛螕　gû-pi, 凍霜　tàng-sng, 鹹澀　kiâm-siap","凍霜　tàng-sng, 貓筩　niau-thāng, 鹹澀　kiâm-siap","虯　khiû, 苛頭　khôr-thâu, 凍霜　tàng-sng, 硞　kho̍k, 鹹澀　kiâm-siap","牛螕　gû-pi, 凍霜　tàng-sng, 鹹澀　kiâm-siap","凍霜　tàng-sng, 孤霜　koo-sng, 鹹澀　kiâm-siap","凍霜　tàng-sng, 孤霜　koo-sng, 鹹澀　kiâm-siap, 牛螕　gû-pi","凍霜　tàng-sng, 鹹澀　kiâm-siap, 怯屎　khiap-sái","凍霜　tàng-sng, 硞　kho̍k"
-806,[方1]0809,節儉,"虯儉　khiû-khiǎm, 粒積　lia̍p-tsik","粒積　lia̍p-tsik, 勤儉　khîrn-khiām","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik","虯儉　khiû-khiām, 粒積　lia̍p-tsik","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik",{F570}儉　khiū-khiām,虯儉　khiû-khiām,儉　khiām,儉　khiām
+806,[方1]0809,節儉,"虯儉　khiû-khiǎm, 粒積　lia̍p-tsik","粒積　lia̍p-tsik, 勤儉　khîrn-khiām","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik","虯儉　khiû-khiām, 粒積　lia̍p-tsik","抾拾　khioh-si̍p, 虯儉　khiû-khiām, 粒積　lia̍p-tsik",𩚨儉　khiū-khiām,虯儉　khiû-khiām,儉　khiām,儉　khiām
 807,[方1]0810,白色,白　pe̍h,白色　pē-sik,白色　pe̍h-sik,白　pē,白　pe̍h,白色　pe̍h-sik,白　pe̍h,白　pe̍h,白色　pe̍h-sik,白色　pe̍h-sik
 808,[方1]0811,黑色,烏　oo,烏色　oo-sik,烏色　oo-sik,烏色　oo-sik,烏色　oo-sik,烏色　oo-sik,烏　oo,烏　oo,烏色　oo-sik,烏色　oo-sik
 809,[方1]0812,綠色,綠　li̍k,綠色　li̍k-sik,綠色　li̍k-sik,綠色　li̍k-sik,綠色　li̍k-sik,綠色　li̍k-sik,綠　li̍k,綠　li̍k,綠色　li̍k-sik　 ,青色　tshenn-sik　 
@@ -820,7 +820,7 @@
 889,[方1]0892,細梳子,蝨篦　sat-pìn,蝨篦　sat-pìn,蝨篦　sat-pìn,"蝨篦　sat-pìn, 較細的捋仔　khah-sè-ê-lua̍h-á",蝨篦　sat-pìn,蝨篦　sat-pìn,蝨篦　sat-pìn,蝨篦　sat-pìn,蝨篦　sat-pìn,蝨篦　sat-pìn
 890,[方1]0893,皮膚過敏,起凊瘼　khí-tshìn-mo̍nnh,起凊瘼　khí-tshìn-mōo,起凊瘼　khí-tshìn-mòo,起凊瘼　khí-tshìn-mòo,起凊瘼　khí-tshìn-mō,起凊凹　khí-tshìn-nah,起凊瘼　khí-tshìn-mo̍oh,著凊瘼　tio̍h-tshìn-mo̍oh,起凊瘼　khí-tshìn-mo̍oh,起凊瘼　khí-tshì-nà
 891,[方1]0894,醃,豉　sǐnn,豉菜頭　sǐnn-tshài-thâu,豉菜頭　sīnn-tshài-thâu,豉菜頭　sīnn-tshài-thâu,豉菜頭　sīnn-tshài-thâu,豉菜頭　sīnn-tshài-thâu,豉　sīnn,豉　sīnn,豉　sīnn,豉　sīnn
-892,[方1]0895,含水噴,哱　phū,{E35A}水　bū-tsuí,哱水　phū-tsuí,哱　phū,哱　phū,哱水　phū-tsuí,哱水　phū-tsuí,哱水　phū-tsuí,哱水　phū-tsuí,噴水　phùn-tsuí
+892,[方1]0895,含水噴,哱　phū,水　bū-tsuí,哱水　phū-tsuí,哱　phū,哱　phū,哱水　phū-tsuí,哱水　phū-tsuí,哱水　phū-tsuí,哱水　phū-tsuí,噴水　phùn-tsuí
 893,[方1]0896,什麼,"啥物　siánn-mí, 啥貨　sánn-hèr",啥　siannh,啥貨　sánn-hè,啥貨　sánn-huè,"啥物　siánn-mí, 啥貨　sánn-huè",啥　siánn,"啥貨　sánn-hèr, 物代　mih-tāi","啥貨　siánn-hè, 物代　mih-tāi; bìn-tāi",啥　siannh,啥　sannh
 894,[方1]0897,貓叫聲,喓　iaunn,喵　miau,喓　iaunn,喵　ngiau,喵　miau,嚶哦　ìnn-ōnn,喵　miau,喓　iaunn,喵　niau,喵　miau
 896,[方1]0899,打水漂,搧水沬　siàn-tsuí-bī,披水披　phi-tsuí-phi,暫無資料　,披水疕仔　phi-tsuí-phí-á,暫無資料　,暫無資料　,拷水星　khó-tsuí-tshinn,標磚仔杮　pio-tsng-á-phè,"批瓦杮　phue-hiā-phèr, 批瓦批　phue-hiā-phue","拍水擗仔　phah-tsuí-phia̍k-á, 報水披　pò-tsuí-phi"
@@ -840,7 +840,7 @@
 910,[方1]0913,扮家家酒,扮咕咧仔　pǎn-koo-lê-á,扮公伙仔　pān-kong-hér-á,扮公伙仔　pān-kong-hé-á,扮公伙仔　pān-kong-hué-á,扮公伙仔　pān-kong-hué-á,"掩咯雞　am-ko̍k-ke, 扮公伙仔　pān-kong-hué-á",扮公伙仔　pān-kong-hér--á,扮公貨仔　pān-kong-hè--á,扮咕伙仔　pān-koo-hér-á ,扮公伙仔　pān-kong-hué-á 
 911,[方1]0914,老鷹抓小雞,覓　bǎ,覓雞仔　bā-kere-á,"挾　gia̍p, 覓　bā",鋏　giap,挾　nge̍h,挾　nge̍h,覓　buâ,挾　nge̍h,㨑　tsang,欱　hop
 912,[方1]0915,他,伊　i,伊　i,伊　i,伊　i,伊　i,伊　i,伊　ī,伊　i,伊　i,伊　ī
-913,[方1]0916,他們,{E701}　in,{E701}　in,{E701}　in,{E701}　īn,{E701}　īn,{E701}　in,{E701}　in,{E701}　in,{E701}　in,{E701}　īn
+913,[方1]0916,他們,　in,　in,　in,　īn,　īn,　in,　in,　in,　in,　īn
 914,[方1]0917,差勁,頇顢　hân-bǎn,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān,頇顢　hân-bān
 915,[方1]0918,用橡皮筋彈,擉　ta̍k,擗　phia̍k,擗　phia̍k,擗　pia̍k,擗　phia̍k,擗　phia̍k,擉　tiak,彈　tuānn,擗　phia̍k,擗　phia̍k
 916,[方1]0919,閃電,爍爁　sinnh-nà,爍爁　sih-nà,搉爍爁　khà-sih-nà,"閃電　siám-tiān, 爍爁　sinnh-nà","閃電　siám-tiān, 爍爁　sinnh-nà","閃電　siám-tiān, 爍爁　sinnh-nà",爍爁　sinnh-nà,爍爁　sinnh-nà,爍爁　sinnh-nà,爍爁　sinnh-nah
@@ -863,7 +863,7 @@
 933,[方1]0936,紅蔥頭,蔥仔頭　tshang-á-thâu,蔥仔珠　tshang-á-tsu,蔥頭　tshang-thâu,紅蔥仔頭　âng-tshang-á-thâu,紅蔥仔頭　âng-tshang-á-thâu,蔥仔頭　tshang-á-thâu,蔥頭　tshang-thâu,蔥頭　tshang-thâu,紅蔥頭　âng-tshang-thâu,紅蔥頭　âng-tshang-thâu
 934,[方1]0937,桑椹,桑材　sng-tsâi,桑材仔　sng-tsâi-á,桑材仔　sng-tsâi-á,"娘仔樹子　niû-á-tshiū-tsí, 鹽酸仔　iâm-sng-á","桑材　sng-tsâi, 桑椹　sng-suî, 鹽酸仔　iâm-sng-á",鹽酸仔　iâm-sng-á,桑材　sng-tsâi,桑椹　sng-suî,桑材　sng-tsâi,桑椹　sng-suî
 935,[方1]0938,錦蛇,暫無資料　,暫無資料　,錦蛇　gím-tsuâ,錦蛇　kím-tsuâ,暫無資料　,暫無資料　,"臭腥母　tshàu-tshinn-bú, 錦蛇　gím-tsuâ",錦蛇　gím-tsuâ,"大山剌　tuā-suann-lua̍h, 錦蛇　gím-tsuâ",錦蛇　kím-tsuâ
-936,[方1]0939,蟬,"{F5B0}蜅蠐　hám-koo-tshê, 青吱仔　tshinn-ki-á",吱蟬　ki-siân,"{F5B0}蜅蠐　am-poo-tshê, 蟬仔　siân-á",蟬　siân,"{F5B0}蜅蠐　am-poo-tsê, 蟬仔　siân-á",{F5B0}蜅蠐仔　ám-poo-tsê-á,"蟬仔　siân--á, 大蛚　tuā-lē, {F5B0}蜅蠐　ham-koo-tshêr　","蟬　siân, {F5B0}蜅蠐　iam-ko-tsê","蟬蠳　siân-ni, 蛣蛚　kiat-le　　",蟬　siân　　
+936,[方1]0939,蟬,"𧌄蜅蠐　hám-koo-tshê, 青吱仔　tshinn-ki-á",吱蟬　ki-siân,"𧌄蜅蠐　am-poo-tshê, 蟬仔　siân-á",蟬　siân,"𧌄蜅蠐　am-poo-tsê, 蟬仔　siân-á",𧌄蜅蠐仔　ám-poo-tsê-á,"蟬仔　siân--á, 大蛚　tuā-lē, 𧌄蜅蠐　ham-koo-tshêr　","蟬　siân, 𧌄蜅蠐　iam-ko-tsê","蟬蠳　siân-ni, 蛣蛚　kiat-le　　",蟬　siân　　
 937,[方1]0940,蝙蝠,夜婆　iǎ-pô,密婆　bi̍t-pô,"日婆　li̍t-pô, 夜婆　iā-pô, 密婆　bi̍t-pô",密婆　bi̍t-pô,夜婆　iā-pôr,夜婆仔　iā-pôr-á,"月婆　ge̍rh-pô, 密婆　bi̍t-pô, 夜婆　iā-pô",蝙蝠　pián-hok ,夜婆　iā-pô,日婆　gi̍t-pô
 938,[方1]0941,繭,娘仔觳　niû-á-phok,娘仔觳　niû-á-khok,觳仔　khok-á,觳仔　khok-á,塗豆仁　thôo-tāu-lîn,暫無資料　,娘仔繭　niû-á-kián,娘仔繭　niû-á-kán,娘仔觳仔　niû-á-khok-á,娘仔觳仔　niû-á-khok-á
 939,[方1]0942,烏賊,墨賊　ba̍k-tsa̍t,墨賊仔　ba̍k-tsa̍t-á,墨賊　ba̍k-tsa̍t,墨賊　ba̍k-tsa̍t,墨賊　ba̍k-tsa̍t,墨賊仔　ba̍k-tsa̍t-á,墨賊　ba̍k-tsa̍t,墨賊　ba̍k-tsa̍t,墨賊仔　ba̍k-tsa̍t-á,墨賊仔　ba̍k-tsa̍t-á
@@ -899,7 +899,7 @@
 969,[方1]0972,連襟,"大細丈　tuǎ-suè-tiǔnn, 大細仙　tuǎ-suè-sian, 連襟　liân-khim",大細仙　tuā-serè-sian,大細丈　tuā-suè-tiūnn,大細仙　tuā-suè-sian; tuā-sè-sian,同門的　tâng-mn̂g--ê,"大細仙　tuā-sè-sian, 大細輦　tuā-sè-lián, 同門的　tâng-mn̂g--ê","楗的　kāinn--ê, 連襟　liân-khim",同門　tâng-mn̂g,大細丈　tuā-suè-tiūnn,大細腎　tuā-sè-siān
 970,[方1]0973,妯娌,"同姒仔　tâng-sǎi-á, 妯娌　ti̍k-lí",同姒仔　tâng-sǎi-á,同姒仔　tâng-sāi-á,"同姒仔　tâng-sāi-á, 妯娌　ti̍k-lí",同姒仔　tâng-sāi-á,同姒　tâng-sāi,同姒　tâng-sāi,同姒仔　tâng-sāi--á,同姒仔　tâng-sāi-á,同姒仔　tâng-sāi-á
 971,[方1]0974,外甥,外甥　guē-sing,外甥仔　guē-sing-á,外甥　guē-sing,外甥仔　guē-sing-á,外甥仔　guē-sing-á,外甥仔　guē-sing-á,外甥　guē-sing,外甥　guē-sing,外甥仔　guē-sing-á,"外甥仔　guē-sing-á, 孫仔　sun-á"
-972,[方1]0975,左撇子,"倒手仔{F3E0}　tò-tshiú-á-uainnh, 倒手仔猴　tò-tshiú-á-kâu",䆀手仔拐　bái-tshiú-á-kuāi,"倒手仔拐　tò-tshiú-á-kuāi, 倒手仔剾刀　tò-tshiú-á-khau-to",倒手拐仔　tò-tshiú-kuáinn-á,倒手拐　tòr-tshiú-kuainnh,"䆀手　bái-tshiú, 倒手拐　tòr-tshiú-kuainnh; tòr-tshiú-kuáinn",倒手抉　tò-tshiú-kuat ,倒手拐　tò-tshiú-kuái,倒手拐　tò-tshiú-kuaih,倒手拐仔　tò-tshiú-kuáinn-á
+972,[方1]0975,左撇子,"倒手仔𨂿　tò-tshiú-á-uainnh, 倒手仔猴　tò-tshiú-á-kâu",䆀手仔拐　bái-tshiú-á-kuāi,"倒手仔拐　tò-tshiú-á-kuāi, 倒手仔剾刀　tò-tshiú-á-khau-to",倒手拐仔　tò-tshiú-kuáinn-á,倒手拐　tòr-tshiú-kuainnh,"䆀手　bái-tshiú, 倒手拐　tòr-tshiú-kuainnh; tòr-tshiú-kuáinn",倒手抉　tò-tshiú-kuat ,倒手拐　tò-tshiú-kuái,倒手拐　tò-tshiú-kuaih,倒手拐仔　tò-tshiú-kuáinn-á
 973,[方1]0976,去世,死去　sí--khìr,死去　sí--khìr,死去　sí--khù,死去　sí--khì,死去　sí--khì,死去　sí--khì,死去　sí--khìr,死去　sí--khù,曲去　khiau--khìr,死去　sí--khì
 974,[方1]0977,去世(委婉),"老　lǎu, 無去　bô--khìr, 過身　kèr-sin, 轉去　tńg--khìr","老去　lāu-khìr, 往生　óng-sing, 過身　kèr-sin","老　lāu, 過身　kè-sin","老去　lāu--khì, 往生　óng-sing, 無佇咧　bô-tī--leh, 過身　kuè-sin, 過往　kuè-óng","老去矣　lāu--khì--ah, 行去矣　kiânn--khì--ah, 往生　óng-sing, 無佇咧　bô-tī--leh, 過身　kuè-sin, 轉去矣　tńg--khì--ah","老去矣　lāu--khì--ah, 行去矣　kiânn--khì--ah, 往生　óng-sing, 無佇咧　bô-tī--leh, 過身　kuè-sin, 轉去矣　tńg--khì--ah","往生　óng-sing, 過身　kèr-sin, 行去　kiânn--khìr","往生　óng-sing, 過身　kè-sin, 老去　lāu--khù, 往生　óng-sing","去囉　khìr--ooh, 往生　óng-sing, 過身　kèr-sin, 老去　lāu--khìr","往生　óng-sing, 過身　kuè-sin"
 975,[方1]0978,掃墓,挂墓紙　kuì-bōo-tsuá,挂紙　kuì-tsuá,"挂紙　kuì-tsuá, 硩墓紙　teh-bōo-tsuá",硩墓紙　teh-bōng-tsuá,硩墓紙　teh-bōng-tsuá,硩墓紙　teh-bōng-tsuá,挂紙　kuì-tsuá,挂墓紙　kuì-bōo-tsuá ,"掃墓　sàu-bōng, 挂紙　kuì-tsuá",暫無資料　
@@ -958,7 +958,7 @@
 1028,[方1]1031,公共汽車,"バス　ba55-sirh3, 公車　kong-tshia",バス　ba55-sirh3,バス　ba55-sirh3,公車　kong-tshia,"バス　ba55-sirh3, 公車　kong-tshia","バス　ba55-sirh3, 公車　kong-tshia",公車　kong-tshia,公車　kong-tshia,バス　ba55-sirh3,公車　kong-tshia　
 1029,[方1]1032,眼睛看不清,濁濁　lô-lô,"目睭花　ba̍k-tsiu-hue, 目睭濁　ba̍k-tsiu-lô","目睭花　ba̍k-tsiu-hue, 目睭濁　ba̍k-tsiu-lô","眵目　tshuh-ba̍k, 濁濁　lô-lô","眵目　tshuh-ba̍k, 濁濁　lôr-lôr","眵目　tshuh-ba̍k, 濁濁　lôr-lôr",濁濁　lô-lô,眵目　tshuh-ba̍k,霧霧　bū-bū,"目睭雺霧　ba̍k-tsiu-bông-bū, 眵眵　tshuh-tshuh"
 1030,[方1]1033,長針眼,生目針　sinn-ba̍k-tsiam,生目針　sinn-ba̍k-tsiam,生目屎針　sinn-ba̍k-sái-tsiam,生目針　senn-ba̍k-tsiam,目屎針　ba̍k-sái-tsiam,目狗針　ba̍k-káu-tsiam,目針　ba̍k-tsiam,生目針　sinn-ba̍k-tsiam,目針　ba̍k-tsiam,目針　ba̍k-tsiam
-1031,[方1]1034,疝氣,墜腸　tuǐ-tiông,墜腸　tuī-tiông,墜腸　tuī-tiông,"大細腎　tuā-sè-siān, 墜腸　tuī-tiông","大{F451}脬　tuā-lān-pha, 墜腸　tuī-tiông","大{F451}脬　tuā-lān-pha, 大細腎　tuā-sè-siān, 墜腸　tuī-tiông",墜腸　tuī-liông,墜腸　tuī-tiông,大墜腸　tuā-tuī-tiông,脫腸　thu̍t-tiông; thu̍t-tn̂g
+1031,[方1]1034,疝氣,墜腸　tuǐ-tiông,墜腸　tuī-tiông,墜腸　tuī-tiông,"大細腎　tuā-sè-siān, 墜腸　tuī-tiông","大𡳞脬　tuā-lān-pha, 墜腸　tuī-tiông","大𡳞脬　tuā-lān-pha, 大細腎　tuā-sè-siān, 墜腸　tuī-tiông",墜腸　tuī-liông,墜腸　tuī-tiông,大墜腸　tuā-tuī-tiông,脫腸　thu̍t-tiông; thu̍t-tn̂g
 1032,[方1]1035,頸部腫大,瘰癧　bí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　lí-la̍t,瘰癧　bí-la̍t,瘰癧　lí-la̍t
 1033,[方1]1036,鐃鈸,"大鎈　tuǎ-tsha, 鎈仔　tsha-á",操仔　tshau-á,鋟鋟鎈仔　tshìm-tshìm-tshenn-á,鋟鎈仔　tshìm-tshenn-á,鋟仔　tshim-á,鋟仔　tshim-á,鐃鈸　luâ-pua̍h,"大㘛　tuā-khâm, 二操　jī-tshau",鐕　tshâm,鋟鎈仔　tshím-tshenn-á 
 1034,[方1]1037,姘婦,夥計　hér-kì,夥計　hér-kì,夥計　hé-khì,夥計　hué-kì,夥計　hué-kì,夥計　hué-kì,鬥頭　tàu-thâu,鬥頭　tàu-thâu,夥計　hé-kì,夥計仔　hué-kì-á
@@ -995,7 +995,7 @@
 1068,[方1]1071,柳丁,柳丁　liú-ting,柳丁　liú-ting,柳丁　liú-ting,柳丁　liú-ting,柳丁　liú-ting,柳丁　liú-ting,橙　tshiâng,柳丁　liú-ting,柳丁　liú-ting,柳丁　liú-ting
 1069,[方1]1072,米苔目,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k,米篩漏　bí-thai-lāu,米篩目　bí-thai-ba̍k,米篩目　bí-thai-ba̍k
 1070,[方1]1073,鴿子,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,鴿　kap ,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu,粉鳥　hún-tsiáu
-1071,[方1]1074,蝌蚪,{F5B0}梅仔　âm-muî-á,"肚胿仔　tōo-kui-á, {F5B0}梅　âm-buê",{F5B0}梅仔　âm-buê-á,咁胿仔　kām-kuainn-á,大頭鼠仔　tuā-thâu-tshú-á,"{F5B0}胿仔　àm-kuai-á, 肚胿仔　tōo-kuai-á",{F5B0}梅仔　âm-muî--á,{F5B0}吪仔　iâm-ô--á,{F5B0}蝛仔　âm-ui-á,蛤胿仔　kap-kuainn-á
+1071,[方1]1074,蝌蚪,𧌄梅仔　âm-muî-á,"肚胿仔　tōo-kui-á, 𧌄梅　âm-buê",𧌄梅仔　âm-buê-á,咁胿仔　kām-kuainn-á,大頭鼠仔　tuā-thâu-tshú-á,"𧌄胿仔　àm-kuai-á, 肚胿仔　tōo-kuai-á",𧌄梅仔　âm-muî--á,𧌄吪仔　iâm-ô--á,𧌄蝛仔　âm-ui-á,蛤胿仔　kap-kuainn-á
 1072,[方1]1075,壁虎,蟮螂　siān-lâng,蟮蟲仔　siān-thâng-á,"蟮尪仔　siān-ang-á, 守宮　siú-kiong","蟮螂　sin-lâng, 壁虎　piah-hóo",蟮蟲仔　siān-thâng-á,蟮螂　sīn-lâng,蟮螂　siān-lâng,蟮螂　sīn-lâng,蟮螂　siān-lâng,蟮尪仔　siān-ang-á
 1073,[方1]1076,尿勺帽,瓠桸帽　pû-hia-bō,鐵碗帽仔　thih-uánn-bō-á,鐵碗帽仔　thih-uánn-bō-á,瓠佬觳仔　pû-láu-khok-á,瓠桸觳仔　puî-hia-khok-á,瓠桸觳仔　puî-hia-khok-á,暫無資料,瓠桸觳　pû-hia-khok,屎桶觳仔　sái-tháng-khok-á,暫無資料
 1075,[方1]1078,含羞草,見笑草　kiàn-siàu-tsháu,"見笑草　kiàn-siàu-tsháu, 愛睏草　ài-khùn-tsháu",見笑草　kiàn-siàu-tsháu,見笑草　kiàn-siàu-tsháu,見笑草　kiàn-siàu-tsháu,見笑花　kiàn-siàu-hue,畏擽草　uì-ngiau-tsháu,見笑草　kiàn-siàu-tsháu,見笑草　kiàn-siàu-tsháu,見笑草　kiàn-siàu-tsháu
