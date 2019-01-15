@@ -48,6 +48,8 @@ for let x in res
         def.example = def.example.split /;;;/
       else
         delete def.example
+      if def.type is \不標示
+        delete def.type
       def
     x.heteronyms.push nym
   if x.radical
