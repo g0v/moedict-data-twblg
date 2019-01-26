@@ -17,5 +17,5 @@ index ::
 #x-筆畫.csv :: ../moedict-webkit/dict-revised.pua.json
 #	./stroke-from-revised.ls
 
-x-筆畫.csv :: node_modules/cjk-unihan/data/unihan.db
+x-筆畫.csv :: node_modules/cjk-unihan/data/unihan.db ./strokes-from-unihan.pl
 	./strokes-from-unihan.pl
