@@ -13,6 +13,7 @@ while (<DATA>) {
     $code = chr $1 if $code =~ /^(\d+)$/;
     $str =~ s/ .*//;
     $str =~ s/^(\d+)\./$Rad[$1],/;
+    $str =~ s/-\d+/0/; # to agree with MoE TWBLG: https://github.com/g0v/moedict-webkit/issues/235
     print "$code,$str,$total\n";
 }
 __DATA__
