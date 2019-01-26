@@ -18,4 +18,4 @@ index ::
 #	./stroke-from-revised.ls
 
 x-筆畫.csv :: node_modules/cjk-unihan/data/unihan.db ./strokes-from-unihan.pl
-	./strokes-from-unihan.pl
+	./strokes-from-unihan.pl > x-筆畫.csv
