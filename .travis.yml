@@ -8,6 +8,6 @@ branches:
   only:
   - master
 script:
-- bash 檢查raw.sh
+- bash kiamtsa-raw.sh
 - perl ./csv2uni.pl
 
