@@ -1,7 +1,7 @@
-all :: import dict index
+all :: import deps dict index
 
 deps ::
-	npm i sqlite3
+	npm i
 
 import ::
 	-rm twblg.db
