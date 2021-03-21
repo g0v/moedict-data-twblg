@@ -1,0 +1,16 @@
+{
+  "author": "g0v.tw",
+  "name": "moedict-data-twblg",
+  "description": "moedict.tw",
+  "version": "0.0.1",
+  "homepage": "https://github.com/g0v/moedict-data-twblg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g0v/moedict-data-twblg"
+  },
+  "dependencies": {
+    "livescript": "^1.6.0",
+    "sqlite3": "^5.0.0",
+    "unorm": "^1.6.0"
+  }
+}
