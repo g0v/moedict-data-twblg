@@ -1,5 +1,5 @@
-序號,方言差編碼,字目,鹿港,三峽,臺北,宜蘭,臺南,高雄,金門,馬公,新竹,臺中
-1,[方]005,欲,berh,berh,beh,beh,beh,beh,berh,boh,beh,beh
+cuankho_no,cuankho,phrase,lokkang,samkiap,taipak,gilan,tailam,kohiong,kimmng,making,sintik,taitiong
+1,[方]005,欲,berh,berh,beh,bueh,beh,beh,berh,boh,beh,beh
 2,[方]007,母(聖～),bió,bió,bió; bú,bóo,biór,biór,bió,bió,bió,bió
 3,[方]011,摸,boo,boo,bong,bong,bong,bong,boo,boo,bong,bong
 4,[方]012,墓,bōo,bōo,bōo,bōng,bōng,bōng,bōo,bōo,bōo;bōng,bōng
@@ -8,13 +8,13 @@
 7,[方]010,磨(～仔),bō,bō,bō,bō,bōr,bōr,bō,bō,bō,bō
 8,[方]001,尾,bér,bér,bé,bué,bué,bué,bér,bé,bér;bé,bué
 9,[方]003,未,běr,bēr,bē,bē; buē,buē,buē,bēr,bē,bēr,buē
-10,[方]006,襪,be̍rh,bēr,be̍h,bue̍h,bue̍h,bue̍h,be̍rh,be̍h,be̍rh;be̍h,bue̍h
+10,[方]006,襪,be̍rh,be̍rh,be̍h,bue̍h,bue̍h,bue̍h,be̍rh,be̍h,be̍rh;be̍h,bue̍h
 11,[方]307,災,tser,tser,tse,tse,tse,tse,tser,tse,tser;tse,tse
 12,[方]308,晬,tsèr,tsèr,tsè,tsè,tsè,tsè,tsèr,tsè,tsèr;tsè,tsè
 13,[方]388,齊,tsuê,tserê,tsuê,tsê,tsê,tsê,tsuê,tsuê,tsuê,tsê
 14,[方]389,濟(多),tsuě; tsuē,tserē,tsuē,tsē,tsē,tsē,tsuē,tsuē,tsuē,tsē
 15,[方]390,節,tsueh,tsereh,tsueh,tseh,tseh,tseh,tsueh,tsueh,tsueh,tseh
-16,[方]309,絕(～種),tse̍rh,tsēr,tse̍h,tse̍h,tse̍h,tse̍h,tse̍rh,tse̍h,tse̍rh;tse̍h,tse̍h
+16,[方]309,絕(～種),tse̍rh,tse̍rh,tse̍h,tse̍h,tse̍h,tse̍h,tse̍rh,tse̍h,tse̍rh;tse̍h,tse̍h
 17,[方]359,爭,tsinn,tsinn,tsinn,tsenn,tsenn,tsenn,tsinn,tsinn,tsinn,tsenn
 18,[方]360,井,tsínn,tsínn,tsínn,tsénn,tsénn,tsénn,tsínn,tsínn,tsínn,tsénn
 19,[方]361,諍,tsìnn,tsìnn,tsìnn,tsènn,tsènn,tsènn,tsìnn,tsìnn,tsìnn,tsènn
@@ -48,8 +48,8 @@
 48,[方]382,煮,tsír,tsír,tsú,tsí,tsú,tsú,tsír,tsú,tsú,tsú
 49,[方]385,自,tsǐr,tsīr,tsū,tsū,tsū,tsū,tsīr,tsū,tsīr,tsū
 50,[方]351,初,tshue,tshere,tshue,tshe,tshe,tshe,tshue,tshue,tshue,tshe
-51,[方]352,脆,tshuè,tsherè,tshuè,tshè,tshè,tshè,tshèr,tshè,tshèr;tshè,tshè
-52,[方]353,慼(厭恨),tshuè,tshereh,tshueh,tsheh,tsheh,tsheh,tshueh,tshueh,tshueh,tsheh
+51,[方]352,脆,tshèr,tshèr,tshè,tshè,tshè,tshè,tshèr,tshè,tshèr;tshè,tshè
+52,[方]353,慼(厭恨),tshueh,tshereh,tshueh,tsheh,tsheh,tsheh,tshueh,tshueh,tshueh,tsheh
 53,[方]319,青,tshinn,tshinn,tshinn,tshenn,tshenn,tshenn,tshinn,tshinn,tshinn,tshenn
 54,[方]320,星,tshinn,tshinn,tshinn,tshenn,tshenn,tshenn,tshinn,tshinn,tshinn,tshenn
 55,[方]321,生,tshinn,tshinn,tshinn,tshenn,tshenn,tshenn,tshinn,tshinn,tshinn,tshenn
@@ -60,12 +60,12 @@
 60,[方]346,蛆(水～),tshir,tshir,tshu,tshi,tshu,tshi,tshir,tshu,tshir,tshi
 61,[方]317,撨,tshâu,tshâu,tshiâu,tshiâu,tshiâu,tshiâu,tshâu,tshâu,tshâu,tshiâu
 62,[方]318,穿,tshǐng,tshīng,tshīng,tshiōng,tshīng,tshīng,tshīng,tshīng,tshīng,tshīng
-63,[方]323,清(～明),tshuinn,tshinn,tshinn,tshinn,tshinn,tshinn,tshinn,tshinn,tshinn,tshing
+63,[方]323,清(～明),tshuinn,tshinn,tshinn,tshing,tshing,tshing,tshinn,tshinn,tshinn,tshing
 65,[方]362,帚(掃～),tsiú; siú,tshiú,tsiú; tshiú,tshiú,tshiú,tshiú,tsiú,tsiú,tshiú,tshiú
 66,[方]327,鯧,tshiunn,tshiunn,tshiunn,tshiunn,tshionn,tshiunn,tshiunn,tshiunn,tshiunn,tshiunn
 67,[方]328,槍,tshiunn,tshiunn,tshiunn,tshiunn,tshionn,tshiunn,tshiunn,tshiunn,tshiunn,tshiunn
 68,[方]329,腔(面～),tshiunn,tshiunn,tshiunn,tshiunn,tshionn,tshiunn,tshiunn,tshiunn,tshiunn,tshiunn
-69,[方]330,廠,tshiúnn,tshiúnn,tshiúnn,tshiúnn,tshiónn,tshiúnn,tshiúnn,tshiúnn,tshiúnn,tshiúnn
+69,[方]330,廠,tshiáng,tshiúnn,tshiúnn,tshiúnn,tshiónn,tshiúnn,tshiúnn,tshiúnn,tshiúnn,tshiúnn
 70,[方]331,搶,tshiúnn,tshiúnn,tshiúnn,tshiúnn,tshiónn,tshiúnn,tshiúnn,tshiúnn,tshiúnn,tshiúnn
 72,[方]333,唱,tshiùnn,tshiùnn,tshiùnn,tshiùnn,tshiòr; tshiònn,tshiùnn,tshiùnn,tshiùnn,tshiùnn,tshiùnn
 73,[方]334,牆,tshiûnn,tshiûnn,tshiûnn,tshiûnn,tshiônn,tshiûnn,tshiûnn,tshiûnn,tshiûnn,tshiûnn
@@ -79,7 +79,7 @@
 81,[方]343,草,tshó,tshó,tshó,tshó,tshór,tshór,tshó,tshó,tshó,tshó
 82,[方]344,糙,tshò,tshò,tshò,tshò,tshòr,tshòr,tshò,tshò,tshò,tshò
 83,[方]345,剉,tshò,tshò,tshò,tshò,tshòr,tshòr,tshò,tshò,tshò,tshò
-84,[方]342,𧮙,tsho̍h,tshoh,tshorh,tshorh,tshorh,tshorh,tsho̍h,tsho̍h,tsho̍h,tsho̍h
+84,[方]342,,tsho̍h,tshoh,tshoh,tshoh,tshorh,tshorh,tsho̍h,tsho̍h,tsho̍h,tsho̍h
 85,[方]349,處,tshìr,tshìr,tshù,tshù,tshù,tshù,tshìr,tshù,tshù,tshù
 86,[方]350,次,tshìr,tshìr,tshù,tshù,tshù,tshù,tshìr,tshù,tshìr,tshù
 87,[方]347,舒(鋪),tshir,tshir,tshu,tshu,tshu,tshu,tshir,tshu,tshu,tshu
@@ -92,18 +92,18 @@
 94,[方]405,矮,ué,eré,ué,é,é,é,ué,ué,ué,é
 95,[方]406,鞋,uê,erê,uê,ê,ê,ê,uê,uê,uê,ê
 96,[方]407,會,ē,erē,uē,ē,ē,ē,ē,ē,ē,ē
-97,[方]408,狹,ue̍h,erē,ue̍h,ē,e̍h,e̍h,ue̍h,ue̍h,ue̍h,e̍h
+97,[方]408,狹,ue̍h,ere̍h,ue̍h,e̍h,e̍h,e̍h,ue̍h,ue̍h,ue̍h,e̍h
 98,[方]056,嬰,inn,inn,inn,enn,enn,enn,inn,inn,inn,enn
 100,[方]058,楹,înn,înn,înn,ênn,ênn,ênn,înn,înn,înn,ênn
-101,[方]021,語,gír,gír,gú,gí,gí,gí,gír,gú,gír;gí,gí
+101,[方]021,語,gír,gír,gú,gí,gú,gí,gír,gú,gír;gí,gí
 102,[方]023,銀,gûn,gîrn,gûn,gîn,gîn,gîn,gûn,gûn,gûn,gîn
 103,[方]018,睨,gûn,gîrn,gîn,gîn,gîn,gîn,gûn,gîn,gîn,gîn
 104,[方]163,研(～擀),nguí,gíng,ngái,gíng,gíng,gíng,ngái,gán,gíng,gíng
-105,[方]017,鵝,giâ,giâ,giâ,gô,gô,gôr,giâ,giâ,giâ,gô
+105,[方]017,鵝,giâ,giâ,giâ,gô,gôr,gôr,giâ,giâ,giâ,gô
 106,[方]020,五,gǒo,gōo,gōo,gōo,gōo,gōo,gōo,gōo,gōo,gōo
 107,[方]019,餓,gǒ,gō,gō,gō,gōr,gōr,gǒ,gō,gō,gō
 108,[方]022,遇,bǔ,gū,gū,gū,gū,gū,gū,gū,bū,gū
-109,[方]015,月,ge̍rh,gēr,ge̍h,guē,gue̍h,gue̍h,ge̍rh,ge̍h,ge̍rh;ge̍h,gue̍h
+109,[方]015,月,ge̍rh,ge̍rh,ge̍h,gue̍h,gue̍h,gue̍h,ge̍rh,ge̍h,ge̍rh;ge̍h,gue̍h
 110,[方]048,許,hír,hír,hú,hí,hú,hí,hír,hú,hír;hí,hí
 111,[方]049,魚,hîr,hîr,hû,hî,hî,hî,hîr,hû,hîr;hî,hî
 112,[方]054,恨,hūn,hīrn,hūn,hīn,hīn,hīn,hūn,hūn,hūn,hūn
@@ -130,9 +130,9 @@
 133,[方]052,範,huǎn,huān,huān,huān,huān,huān,huān,huān,huān,huān
 134,[方]025,灰,her,her,he,hue,hue,hue,her,he,her;he,hue
 135,[方]026,火,hér,hér,hé,hué,hué,hué,hér,hé,hér;hé,hué
-136,[方]027,歲,hèr,hèr,hè,huè,huè,huè,hèr,hè,hèr;hè,hè
-137,[方]028,貨,hèr,hèr,hè,huè,huè,huè,hèr,hè,hèr;hè,hè
-138,[方]029,回,hêr,hêr,hê,huê,huê,huê,hêr,hê,hêr;hê,hê
+136,[方]027,歲,hèr,hèr,hè,huè,huè,huè,hèr,hè,hèr;hè,huè
+137,[方]028,貨,hèr,hèr,hè,huè,huè,huè,hèr,hè,hèr;hè,huè
+138,[方]029,回,hêr,hêr,hê,huê,huê,huê,hêr,hê,hêr;hê,huê
 139,[方]053,血,huih,huih,huih,hueh,hueh,hueh,huih,huih,huih,hueh
 140,[方]409,危,guî,guî,uî,huî,huî,huî,guî,guî,guî;luî,guî;huî
 141,[方]403,預,ǐr,īr,ū,ī,ī,ī,īr,ū,īr;ī,ī
@@ -148,7 +148,7 @@
 151,[方]169,抓,liàu,jiàu,niàu,jiàu,jiàu,jiàu,liàu,jiàu,liàu;ngiàu,jiàu;giàu
 152,[方]137,逐(追),lip,jip,lip,jik,jiok,jiok,tsip,jiok,lip,giok
 153,[方]138,日,li̍t,ji̍t,li̍t,ji̍t,ji̍t; li̍t,ji̍t,li̍t,ji̍t,ji̍t;li̍t,ji̍t;gi̍t
-154,[方]140,乳,lú,jú,lú,jú,jú; lú,jú,lú,jú,jú;lú,jú
+154,[方]140,乳,lú,jú,lú,jí,jú; lú,jú,lú,jú,jú;lú,jú
 156,[方]134,字,lǐ,jī,lī,jī,jī,jī,lī,jī,jī;lī,jī;gī
 157,[方]132,挼,lêr,jêr,lê,juê,juê,juê,lêr,jê,jêr;lêr;lê,juê
 158,[方]119,雞,kue,kere,kue,ke,ke,ke,kue,kue,kue,ke
@@ -167,7 +167,7 @@
 171,[方]115,舉,kír,kír,kú,kí,kí,kí,kír,kú,kír;kí,kí
 172,[方]116,據,kìr,kìr,kù,kì,kì,kì,kìr,kù,kìr;kì,kì
 173,[方]117,鋸,kìr,kìr,kù,kì,kù,kì,kìr,kù,kìr;kì,kì
-174,[方]094,屐(木～),kia̍h,kiā,kia̍h,kiā,kia̍h,kia̍h,khia̍h,khia̍h;kia̍h,kia̍h,kia̍h
+174,[方]094,屐(木～),kia̍h,kia̍h,kia̍h,kia̍h,kia̍h,kia̍h,khia̍h,khia̍h;kia̍h,kia̍h,kia̍h
 175,[方]095,囝,kánn,kánn,kiánn,kiánn,kiánn,kiánn,kiánn,kiánn,kiánn,kiánn
 176,[方]126,斤,kun,kirn,kun,kin,kin,kin,kun,kun,kun,kin
 177,[方]127,巾,kun,kirn,kun,kin,kin,kin,kun,kun,kun,kin
@@ -211,13 +211,13 @@
 215,[方]084,考,khónn,khó,khó,khó,khór,khór,khó,khó,khó,khó
 216,[方]085,可,khónn,khó,khó,khó,khór,khór,khó,khó,khó,khó
 217,[方]086,靠,khò,khò,khò,khò,khòr,khòr,khò,khò,khò,khò
-218,[方]074,課,khèr,khèr,khè,khuè,khuè,khuè,khèr,khè,khìr,khuè
+218,[方]074,課(工～),khèr,khèr,khè,khuè,khuè,khuè,khèr,khè,khìr,khuè
 219,[方]075,缺,kherh,kherh,kheh,khueh,khueh,khueh,kherh,kheh,kherh;kheh,khueh
 220,[方]131,儡,lér,lér,lé,lé,lé,lé,lér,lé,lér;lé,lé
 221,[方]145,犁,luê,lerê,luê,lê,lê,lê,luê,luê,luê,lê
 222,[方]133,螺,lêr,lêr,lê,lê,lê,lê,lêr,lê,lêr;lê,lê
 223,[方]146,鑢(鋸～),luě,lerē,luē,lē,lē,lē,luē,luē,luē,lē
-224,[方]147,笠,lue̍h,lerē,lue̍h,le̍h,le̍h,le̍h,lue̍h,lue̍h,lue̍h,le̍h
+224,[方]147,笠,lue̍h,lere̍h,lue̍h,le̍h,le̍h,le̍h,lue̍h,lue̍h,lue̍h,le̍h
 225,[方]141,你,lír,lír,lú,lí,lí,lí,lír,lú,lí;lír,lí
 226,[方]143,呂,lǐr,līr,lū,lī,lī,lī,līr,lū,līr;lū,lū
 227,[方]144,慮,lǐr,līr,lū,lī,lī,lī,līr,lū,līr;lī,lū
@@ -231,7 +231,7 @@
 235,[方]152,暝,mî,mî,mî,mê,mê,mê,mî,mî,mî,mê
 236,[方]149,罵,mǎ,mā,mā,mē,mē,mē,mā,mī,mā,mē
 237,[方]013,萵(～仔菜),er,er,e,ue,gor,meh,er,o,er,ue
-238,[方]150,脈,me̍h,mē,me̍h,mē,me̍h,me̍h,be̍h,me̍h,be̍h,me̍h;mē
+238,[方]150,脈,me̍h,me̍h,me̍h,me̍h,me̍h,me̍h,be̍h,me̍h,be̍h,me̍h;mē
 239,[方]153,毛,mn̂g,mn̂g,mn̂g,moo,moo; mn̂g,mn̂g,mn̂g,mn̂g,mn̂g,mn̂g
 240,[方]154,門,mn̂g,mn̂g,mn̂g,muî,mn̂g,mn̂g,mn̂g,mn̂g,mn̂g,mn̂g
 241,[方]155,問,mňg,mn̄g,mn̄g,muī,mn̄g,mn̄g,mn̄g,mn̄g,mn̄g,mn̄g
@@ -277,7 +277,7 @@
 281,[方]203,反,píng; puínn,píng,píng,píng,píng,píng,páinn,pán,píng,píng
 282,[方]208,方,png,png,png,puinn,png,png,png,png,png,png
 283,[方]209,飯,pňg,pn̄g,pn̄g,puīnn,pn̄g,pn̄g,pn̄g,pn̄g,pn̄g,pn̄g
-284,[方]217,斧,póo,póo,póo,pú,póo,póo,póo,póo,póo,póo
+284,[方]217,斧,póo,póo,póo,phú,póo,póo,póo,póo,póo,póo
 285,[方]218,哺,pǒo,pōo,pōo,pōo,pōo,pōo,pōo,pōo,pōo,pōo
 286,[方]219,步,pǒo,pōo,pōo,pōo,pōo,pōo,pōo,pōo,pōo,pōo
 287,[方]210,褒,po,po,po,po,por,por,po,po,po,po
@@ -286,14 +286,14 @@
 290,[方]213,寶,pó,pó,pó,pó,pór,pór,pó,pó,pó,pó
 291,[方]214,報,pò,pò,pò,pò,pòr,pòr,pò,pò,pò,pò
 292,[方]215,婆,pô,pô,pô,pô,pôr,pôr,pô,pô,pô,pô
-293,[方]216,薄,po̍h,pō,po̍h,pō,po̍rh,po̍rh,po̍h,po̍h,po̍h,po̍h
+293,[方]216,薄,po̍h,po̍h,po̍h,po̍h,po̍rh,po̍rh,po̍h,po̍h,po̍h,po̍h
 294,[方]189,菠(～薐菜),per,per,pe,pue,pue,pue,per,pe,per;pe,pue
 295,[方]190,飛,per,per,pe,pue,pue,pue,per,pe,per;pe,pue
 296,[方]191,掰,pér,pér,pé,pué,pué,pué,pér,pé,pér;pé,pué
 297,[方]192,賠,pêr,pêr,pê,puê,puê,puê,pêr,pê,pêr;pê,puê
 298,[方]193,倍,pěr,pēr,pē,puē,puē,puē,pēr,pē,pēr;pē,puē
 299,[方]194,焙,pěr,pēr,pē,puē,puē,puē,pēr,pē,pēr;pē,puē
-300,[方]220,拔,pue̍h,puē,pui̍h,puē,pue̍h,pue̍h,pui̍h,pue̍h,pui̍h,pue̍h
+300,[方]220,拔,pue̍h,pue̍h,pui̍h,pue̍h,pue̍h,pue̍h,pui̍h,pue̍h,pui̍h,pue̍h
 301,[方]199,鼻,phǐ; phī,phī,phīnn,phīnn,phīnn,phīnn,phī,phīnn,phīnn,phīnn
 302,[方]202,簿,phǒo,phōo,phōo,phōo,phōo,phōo,phōo,phōo,phōo,phōo
 303,[方]200,抱,phǒ,phō,phō,phō,phōr,phōr,phō,phō,phō,phō
@@ -306,11 +306,11 @@
 310,[方]260,洗,sué,seré,sué,sé,sé,sé,sué,sué,sué,sé
 311,[方]261,細,suè,serè,suè,sè,sè,sè,suè,suè,suè,sè
 312,[方]222,雪,serh,serh,seh,seh,seh,seh,serh,seh,serh;seh,seh
-313,[方]224,踅,se̍rh,sēr,se̍h,se̍h,se̍h,se̍h,se̍rh,se̍h,se̍rh;se̍h,se̍h
+313,[方]224,踅,se̍rh,se̍rh,se̍h,se̍h,se̍h,se̍h,se̍rh,se̍h,se̍rh;se̍h,se̍h
 314,[方]231,生,sinn,sinn,sinn,senn,senn,senn,sinn,sinn,sinn,senn
 315,[方]232,牲,sinn,sinn,sinn,senn,senn,senn,sinn,sinn,sinn,senn
 317,[方]234,姓,sìnn,sìnn,sìnn,sènn,sènn,sènn,sìnn,sìnn,sìnn,sènn
-318,[方]235,性,sìnn,sìnn,sìnn,sènn,sènn,sènn,sìnn,sìnn,sìnn,sènn
+318,[方]235,性(～命),sìnn,sìnn,sìnn,sènn,sènn,sènn,sìnn,sìnn,sìnn,sènn
 319,[方]257,嶼,sǐr,sīr,sū,sī,sī,sū,sīr,sū,sīr,sū
 320,[方]226,鉎,san,san,sian,sian,sian,sian,san,san,san,sian
 321,[方]227,雙,sang,sang,siang,siang,siang,siang,sang,sang,sang,siang
@@ -323,7 +323,7 @@
 328,[方]239,賞,siúnn,siúnn,siúnn,siúnn,siónn,siúnn,siúnn,siúnn,siúnn,siúnn
 329,[方]240,鯗,siúnn,siúnn,siúnn,siúnn,siónn,siúnn,siúnn,siúnn,siúnn,siúnn
 330,[方]241,相,siùnn,siùnn,siùnn,siùnn,siònn,siùnn,siùnn,siùnn,siùnn,siùnn
-331,[方]242,𣻸,siûnn,siûnn,siûnn,siûnn,siônn,siûnn,siûnn,siûnn,siûnn,siûnn
+331,[方]242,,siûnn,siûnn,siûnn,siûnn,siônn,siûnn,siûnn,siûnn,siûnn,siûnn
 332,[方]243,想,siǔnn,siūnn,siūnn,siūnn,siōnn,siūnn,siūnn,siūnn,siūnn,siūnn
 333,[方]244,尚,siǔnn,siūnn,siūnn,siūnn,siōnn,siūnn,siūnn,siūnn,siūnn,siūnn
 334,[方]245,酸,sng,sng,sng,suinn,sng,sng,sng,sng,sng,sng
@@ -332,7 +332,7 @@
 337,[方]248,鎖,só,só,só,só,sór,sór,só,só,só,só
 338,[方]249,嫂,só,só,só,só,sór,sór,só,só,só,só
 339,[方]250,燥,sò,sò,sò,sò,sòr,sòr,sò,sò,sò,sò
-340,[方]251,掃,sò,sò,sò,sò,sòr,sòr,sò,sò,sò,sò
+340,[方]251,埽(糞～),sò,sò,sò,sò,sòr,sòr,sò,sò,sò,sò
 341,[方]252,趖,sô,sô,sô,sô,sôr,sôr,sô,sô,sô,sô
 342,[方]253,索,soh,soh,soh,soh,sorh,sorh,soh,soh,soh,soh
 343,[方]254,師,sir,sir,su,su,su,su,sir,su,sir;su,su
@@ -362,7 +362,7 @@
 368,[方]395,箸,tǐr,tīr,tū,tī,tī,tī,tīr,tū,tīr;tī,tī
 369,[方]396,佇(在),tǐr,tīr,tū,tī,tī,tī,tī,tū,tī,tī
 370,[方]281,釘,tan,ting,ting,ting,ting,ting,tan,tan,ting,ting
-371,[方]282,𠕇,tǐng,tīng,tīng,tīng,tīng,tīng,tīng,tān;tīng,tīng,tīng
+371,[方]282,,tǐng,tīng,tīng,tīng,tīng,tīng,tīng,tān;tīng,tīng,tīng
 372,[方]287,中,tiong,tiong,tiong,ting,tiong,tiong,tiong,tiong,tiong,tiong
 373,[方]288,張,tiunn,tiunn,tiunn,tiunn,tionn,tiunn,tiunn,tiunn,tiunn,tiunn
 374,[方]289,長,tiúnn,tiúnn,tiúnn,tiúnn,tiónn,tiúnn,tiúnn,tiúnn,tiúnn,tiúnn
@@ -379,11 +379,11 @@
 385,[方]306,度,tǒo,tōo,tōo,tōo,tōo,tōo,tōo,tōo,tōo,tōo
 386,[方]298,刀(～仔),to,to,to,to,tor,tor,to,to,to,to
 387,[方]299,倒(跋～),tó,tó,tó,tó,tór,tór,tó,tó,tó,tó
-388,[方]304,島,tóo,tóo,tóo,tóo,tór,tór,tó,tóo,tóo,tó
+388,[方]304,島,tóo,tóo,tóo,tó,tór,tór,tó,tóo,tóo,tó
 389,[方]300,倒(～掉),tò,tò,tò,tò,tòr,tòr,tò,tò,tò,tò
 390,[方]301,萄(葡～),tô,tô,tô,tô,tôr,tôr,tô,tô,tô,tô
 391,[方]302,桌,toh,toh,toh,toh,torh,torh,toh,toh,toh,toh
-392,[方]303,著,to̍h,tō,to̍h,tō,to̍rh,to̍rh,to̍h,to̍h,to̍h,to̍h
+392,[方]303,著,to̍h,to̍h,to̍h,to̍h,to̍rh,to̍rh,to̍h,to̍h,to̍h,to̍h
 393,[方]268,綴,tèr,tèr,tè,tuè,tuè,tuè,tèr,tè,tèr;tè,tuè
 394,[方]310,蠶,tshâm,tshâm,tshâm,tshâm,thâm,thâm,tshâm,tshâm,tshâm,tshâm
 395,[方]271,推,ther,ther,the,the,the,the,ther,the,ther;the,the
@@ -395,23 +395,23 @@
 401,[方]276,熥(再熱),thňg,thn̄g,thn̄g,thuīnn,thn̄g,thn̄g,thn̄g,thn̄g,thn̄g,thn̄g
 402,[方]277,討,thó,thó,thó,thó,thór,thór,thó,thó,thó,thó
 403,[方]278,桃(～仔),thô,thô,thô,thô,thôr,thôr,thô,thô,thô,thô
-404,[方]279,迌(𨑨～),thô,thô,thô,thô,thôr,thôr,thô,thô,thô,thô
+404,[方]279,迌(～),thô,thô,thô,thô,thôr,thôr,thô,thô,thô,thô
 405,[方]402,寓,ú,ú; ù,ú,ú,ú,ú,ú,gū,ú,ú
 406,[方]014,鍋,er,er,e,ue,ue,ue,er,e,er;e,ue
 407,[方]410,畫,uě,uī,uī,uē,uē,uē,uī,uī,uī,uē
 408,[方]411,劃,ue̍h,ui̍h,ui̍h,ue̍h,ue̍h,ue̍h,ui̍h,ui̍h,ui̍h,ue̍h
 409,[方]412,恩,un,irn,un,in,un; in,un,un,un,un,un
 410,[方]262,刐,x,x,táinn,x,x,x,táinn,tán,x,x
-411,[方]391,截(刀切),tsue̍h,tserē,tsue̍h,x,x,x,tsue̍h,tsue̍h,tsue̍h,x
-412,[方]326,楊(～梅),tshiû,tshiû,tshiû,x,x,x,tshiû,tshiûnn,x,x
-413,[方]413,著,tio̍h,tiō,tio̍h,tiō,tio̍rh,tio̍rh,tio̍h,tio̍h,tio̍h,tio̍h
+411,[方]391,截(刀切),tsue̍h,tsere̍h,tsue̍h,x,x,x,tsue̍h,tsue̍h,tsue̍h,x
+412,[方]326,樹(～梅),tshiū,tshiū,tshiū,x,x,x,tshiū,tshiūnn,x,x
+413,[方]413,著,tio̍h,tio̍h,tio̍h,tio̍h,tio̍rh,tio̍rh,tio̍h,tio̍h,tio̍h,tio̍h
 415,[方]415,吠,puǐ,puī,puī,puī,puī,puī,puī,puī,puī,puī
-416,[方]416,阮,gún,gún,gún,gún,guán(男);gún(女),guán,guán,guán,gún,gún
+416,[方]416,阮,gún,gún,gún,gúan,guán(男);gún(女),guán,guán,guán,gún,gún
 417,[方]417,拌,puǎnn,puānn,puānn,puānn,puānn,puānn,puānn,puānn,puānn,puānn
 418,[方]418,迒,hâ,hānn,hānn,hānn,hānn,hānn,hānn,hānn,hānn,hānn
 419,[方]419,厚,kǎu,kāu,kāu,kāu,kāu,kāu,kāu,kāu,kāu,kāu
 420,[方]420,耎,luán,juán,luán,luán,juán,luán,luán,juán,luán,luán
-421,[方]421,捋,lua̍h,luā,lua̍h,luā,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h
+421,[方]421,捋,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h,lua̍h
 422,[方]422,䖙,the,the,the,thenn; the,the,the,the,the,the,thenn
 423,[方]423,八,pueh,pueh,pueh,peh,peh,peh,pueh,pueh,pueh,peh
 424,[方]424,予,hǒo,hōo,hōo,hōo,hōo,hōo,hōo,hōo,hōo,hōo
