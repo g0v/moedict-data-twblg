@@ -10,7 +10,7 @@ from urllib.request import urlopen
 
 
 class 掠網頁資料:
-    條目網址 = 'http://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no={}&curpage=1&sample=%E5%AA%A0&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=9'
+    條目網址 = 'https://twblg.dict.edu.tw/holodict_new/result_detail.jsp?n_no={}&curpage=1&sample=%E5%AA%A0&radiobutton=1&querytarget=1&limit=20&pagenum=1&rowcount=9'
     造字圖片編號 = re.compile(r'/holodict_new/fontPics/([0-9A-F]{4}).gif')
 
     def __init__(self):
