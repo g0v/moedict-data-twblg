@@ -2,7 +2,7 @@
 .header on
 .import 'x-筆畫.csv' strokes
 .import 'x-造字.csv' pua
-.import 'uni/對應華語.csv' m2t
+-- .import 'uni/對應華語.csv' m2t
 .import 'uni/例句.csv' examples
 .import 'uni/又音.csv' heteronyms
 .import 'uni/釋義.csv' definitions

@@ -1,3 +1,5 @@
+export PATH := $(PWD)/node_modules/.bin:$(PATH)
+
 all :: import deps dict index
 
 deps ::

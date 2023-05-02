@@ -23,6 +23,14 @@ dos2unix raw/*
 
 ### 更新萌典
 ```
+npm install # 安裝依賴
+make import # 建立從原始檔匯入資料到 twblg.db
+make dict # 產生 dict-twblg.json 和 dict-twblg-ext.json
+```
+
+或是用 Docker：
+
+```
 time docker build -t twblg .
 docker run --rm twblg cat index.json > index.json
 docker run --rm twblg cat dict-twblg.json > dict-twblg.json
